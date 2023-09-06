@@ -8,6 +8,7 @@ class DataFetcher:
 
     def fetchAndWritePLTeamStats(self):
         team_stats_for_dictionary = {}
+        team_stats_against_dictionary = {}
 
 
         #Div id for team stats: div_stats_squads_standard_for
@@ -35,17 +36,24 @@ class DataFetcher:
             
         #Loop through all rows in for table, then all rows in against table
         #Loop through first time to get the team names to store in the dictionary for future use
-        data_rows = team_for_stats.find("tbody").find_all("tr")
-        for cur_row in data_rows:
-            for index, cur_row_entry in enumerate(cur_row):
+        data_for_rows = team_for_stats.find("tbody").find_all("tr")
+        data_against_rows = team_against_stats.find("tbody").find_all("tr")
+        for cur_for_row, cur_against_row in zip(data_for_rows, data_against_rows):
+            for index, (cur_for_row_entry, cur_against_row_entry) in enumerate(zip(cur_for_row, cur_against_row)):
                 if index == 0: #This will just be a th tag after this one the rest of the row is td entries
-                    cur_team_name = cur_row_entry.find("a").string
+                    cur_team_name = cur_for_row_entry.find("a").string
                     team_stats_for_dictionary[cur_team_name] = {}
+                    team_stats_against_dictionary[cur_team_name] = {}
                     continue
-                team_stats_for_dictionary[cur_team_name][stat_names[index-1]] = cur_row_entry.string
-        
-        print(len(team_stats_for_dictionary['Arsenal']))
-        #Each team should have 31 rows
+                team_stats_for_dictionary[cur_team_name][stat_names[index-1]] = cur_for_row_entry.string
+                team_stats_against_dictionary[cur_team_name][stat_names[index-1]] = cur_against_row_entry.string
+            
+
+        team_for_stats_file = open("../data/loaded_team_for_data.json", "w")
+        team_against_stats_file = open("../data/loaded_team_against_data.json", "w")
+        json.dump(team_stats_for_dictionary, team_for_stats_file, indent=2)
+        json.dump(team_stats_against_dictionary, team_against_stats_file, indent=2)
+
 
 
 

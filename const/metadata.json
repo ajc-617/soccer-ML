@@ -1,3 +1,7 @@
 {
-    "PL_team_stats_base_url": "https://fbref.com/en/comps/9/2022-2023/2022-2023-Premier-League-Stats"
+    "PL_team_stats_base_url": "https://fbref.com/en/comps/9/2022-2023/2022-2023-Premier-League-Stats",
+    "SerieA_team_stats_base_url": "https://fbref.com/en/comps/11/2022-2023/2022-2023-Serie-A-Stats",
+    "Bundesliga_team_stats_base_url": "https://fbref.com/en/comps/20/2022-2023/2022-2023-Bundesliga-Stats",
+    "Ligue1_team_stats_base_url": "https://fbref.com/en/comps/13/2022-2023/2022-2023-Ligue-1-Stats",
+    "LaLiga_team_stats_base_url":"https://fbref.com/en/comps/12/2022-2023/2022-2023-La-Liga-Stats"
 }

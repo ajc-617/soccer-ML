@@ -1,0 +1,4562 @@
+[
+  {
+    "Home Team": {
+      "Name": "Crystal Palace",
+      "XG": "1.2",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Arsenal",
+      "XG": "1.0",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Fulham",
+      "XG": "1.2",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Liverpool",
+      "XG": "1.2",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Tottenham",
+      "XG": "1.5",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Southampton",
+      "XG": "0.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Newcastle Utd",
+      "XG": "1.7",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Nott'ham Forest",
+      "XG": "0.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leeds United",
+      "XG": "0.8",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Wolves",
+      "XG": "1.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bournemouth",
+      "XG": "0.6",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Aston Villa",
+      "XG": "0.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Everton",
+      "XG": "0.7",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Chelsea",
+      "XG": "1.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leicester City",
+      "XG": "0.6",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Brentford",
+      "XG": "0.8",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Manchester Utd",
+      "XG": "1.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Brighton",
+      "XG": "1.5",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "West Ham",
+      "XG": "0.5",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Manchester City",
+      "XG": "2.2",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Aston Villa",
+      "XG": "2.3",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Everton",
+      "XG": "1.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Manchester City",
+      "XG": "1.7",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Bournemouth",
+      "XG": "0.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Southampton",
+      "XG": "1.2",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Leeds United",
+      "XG": "1.8",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Wolves",
+      "XG": "0.9",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Fulham",
+      "XG": "1.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Arsenal",
+      "XG": "2.7",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Leicester City",
+      "XG": "0.5",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brighton",
+      "XG": "1.5",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Newcastle Utd",
+      "XG": "0.2",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brentford",
+      "XG": "1.6",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Manchester Utd",
+      "XG": "0.9",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nott'ham Forest",
+      "XG": "1.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "West Ham",
+      "XG": "2.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Chelsea",
+      "XG": "1.6",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Tottenham",
+      "XG": "1.0",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Liverpool",
+      "XG": "2.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Crystal Palace",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Tottenham",
+      "XG": "1.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Wolves",
+      "XG": "0.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leicester City",
+      "XG": "0.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Southampton",
+      "XG": "0.9",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Everton",
+      "XG": "1.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Nott'ham Forest",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Crystal Palace",
+      "XG": "2.6",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Aston Villa",
+      "XG": "0.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Fulham",
+      "XG": "2.4",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Brentford",
+      "XG": "1.8",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bournemouth",
+      "XG": "0.3",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Arsenal",
+      "XG": "1.3",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leeds United",
+      "XG": "2.1",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Chelsea",
+      "XG": "0.9",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "West Ham",
+      "XG": "0.8",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Brighton",
+      "XG": "1.7",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Newcastle Utd",
+      "XG": "1.8",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Manchester City",
+      "XG": "2.1",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Manchester Utd",
+      "XG": "1.8",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Liverpool",
+      "XG": "1.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Southampton",
+      "XG": "1.4",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Manchester Utd",
+      "XG": "1.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Manchester City",
+      "XG": "2.2",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Crystal Palace",
+      "XG": "0.1",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brighton",
+      "XG": "2.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Leeds United",
+      "XG": "1.8",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Chelsea",
+      "XG": "1.8",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Leicester City",
+      "XG": "2.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brentford",
+      "XG": "2.1",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Everton",
+      "XG": "1.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Liverpool",
+      "XG": "3.3",
+      "Score": "9"
+    },
+    "Away Team": {
+      "Name": "Bournemouth",
+      "XG": "0.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Arsenal",
+      "XG": "2.6",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Fulham",
+      "XG": "0.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Wolves",
+      "XG": "0.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Newcastle Utd",
+      "XG": "1.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Aston Villa",
+      "XG": "0.5",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "West Ham",
+      "XG": "0.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nott'ham Forest",
+      "XG": "0.9",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Tottenham",
+      "XG": "2.4",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Fulham",
+      "XG": "0.7",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Brighton",
+      "XG": "1.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Crystal Palace",
+      "XG": "1.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Brentford",
+      "XG": "1.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Southampton",
+      "XG": "1.1",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Chelsea",
+      "XG": "1.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leeds United",
+      "XG": "1.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Everton",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bournemouth",
+      "XG": "0.4",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Wolves",
+      "XG": "1.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Manchester City",
+      "XG": "3.3",
+      "Score": "6"
+    },
+    "Away Team": {
+      "Name": "Nott'ham Forest",
+      "XG": "0.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Arsenal",
+      "XG": "2.4",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Aston Villa",
+      "XG": "0.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "West Ham",
+      "XG": "1.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Tottenham",
+      "XG": "0.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Liverpool",
+      "XG": "1.5",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Newcastle Utd",
+      "XG": "0.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leicester City",
+      "XG": "0.7",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Manchester Utd",
+      "XG": "1.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Everton",
+      "XG": "1.7",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Liverpool",
+      "XG": "2.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nott'ham Forest",
+      "XG": "1.9",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Bournemouth",
+      "XG": "0.8",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Wolves",
+      "XG": "0.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Southampton",
+      "XG": "1.2",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Newcastle Utd",
+      "XG": "2.8",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Crystal Palace",
+      "XG": "1.0",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brentford",
+      "XG": "2.3",
+      "Score": "5"
+    },
+    "Away Team": {
+      "Name": "Leeds United",
+      "XG": "1.7",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Tottenham",
+      "XG": "2.9",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Fulham",
+      "XG": "0.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Chelsea",
+      "XG": "0.9",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "West Ham",
+      "XG": "1.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Aston Villa",
+      "XG": "0.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Manchester City",
+      "XG": "2.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brighton",
+      "XG": "2.6",
+      "Score": "5"
+    },
+    "Away Team": {
+      "Name": "Leicester City",
+      "XG": "1.4",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Manchester Utd",
+      "XG": "1.5",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Arsenal",
+      "XG": "1.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Aston Villa",
+      "XG": "1.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Southampton",
+      "XG": "0.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nott'ham Forest",
+      "XG": "1.4",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Fulham",
+      "XG": "0.9",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Wolves",
+      "XG": "0.4",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Manchester City",
+      "XG": "1.1",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Newcastle Utd",
+      "XG": "1.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Bournemouth",
+      "XG": "0.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Tottenham",
+      "XG": "2.2",
+      "Score": "6"
+    },
+    "Away Team": {
+      "Name": "Leicester City",
+      "XG": "1.8",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brentford",
+      "XG": "0.5",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Arsenal",
+      "XG": "1.5",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Everton",
+      "XG": "0.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "West Ham",
+      "XG": "1.0",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Arsenal",
+      "XG": "2.4",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Tottenham",
+      "XG": "1.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Southampton",
+      "XG": "1.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Everton",
+      "XG": "2.0",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Crystal Palace",
+      "XG": "0.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Chelsea",
+      "XG": "1.1",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Liverpool",
+      "XG": "1.5",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Brighton",
+      "XG": "1.4",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Fulham",
+      "XG": "0.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Newcastle Utd",
+      "XG": "3.3",
+      "Score": "4"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bournemouth",
+      "XG": "0.4",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Brentford",
+      "XG": "0.9",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "West Ham",
+      "XG": "0.9",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Wolves",
+      "XG": "0.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Manchester City",
+      "XG": "3.2",
+      "Score": "6"
+    },
+    "Away Team": {
+      "Name": "Manchester Utd",
+      "XG": "1.7",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leeds United",
+      "XG": "0.4",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Aston Villa",
+      "XG": "2.2",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leicester City",
+      "XG": "1.3",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Nott'ham Forest",
+      "XG": "1.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bournemouth",
+      "XG": "1.1",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Leicester City",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Newcastle Utd",
+      "XG": "1.5",
+      "Score": "5"
+    },
+    "Away Team": {
+      "Name": "Brentford",
+      "XG": "1.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Manchester City",
+      "XG": "2.4",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Southampton",
+      "XG": "0.2",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Chelsea",
+      "XG": "1.9",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Wolves",
+      "XG": "1.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brighton",
+      "XG": "0.7",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Tottenham",
+      "XG": "0.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "West Ham",
+      "XG": "2.4",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Fulham",
+      "XG": "0.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Crystal Palace",
+      "XG": "1.1",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Leeds United",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Arsenal",
+      "XG": "2.7",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Liverpool",
+      "XG": "1.1",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Everton",
+      "XG": "0.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Manchester Utd",
+      "XG": "1.4",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nott'ham Forest",
+      "XG": "0.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Aston Villa",
+      "XG": "0.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brentford",
+      "XG": "1.5",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Brighton",
+      "XG": "1.9",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leicester City",
+      "XG": "1.0",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Crystal Palace",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Fulham",
+      "XG": "2.1",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Bournemouth",
+      "XG": "1.0",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Wolves",
+      "XG": "1.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Nott'ham Forest",
+      "XG": "1.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Tottenham",
+      "XG": "2.2",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Everton",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Southampton",
+      "XG": "0.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "West Ham",
+      "XG": "1.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Aston Villa",
+      "XG": "1.8",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Chelsea",
+      "XG": "0.9",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leeds United",
+      "XG": "1.8",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Arsenal",
+      "XG": "0.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Manchester Utd",
+      "XG": "0.8",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Newcastle Utd",
+      "XG": "0.8",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Liverpool",
+      "XG": "2.1",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Manchester City",
+      "XG": "1.0",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brighton",
+      "XG": "1.7",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Nott'ham Forest",
+      "XG": "0.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Crystal Palace",
+      "XG": "1.2",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Wolves",
+      "XG": "0.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bournemouth",
+      "XG": "1.0",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Southampton",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brentford",
+      "XG": "1.3",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Chelsea",
+      "XG": "0.9",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Liverpool",
+      "XG": "1.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "West Ham",
+      "XG": "1.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Newcastle Utd",
+      "XG": "1.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Everton",
+      "XG": "0.2",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Manchester Utd",
+      "XG": "1.5",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Tottenham",
+      "XG": "0.6",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Fulham",
+      "XG": "2.1",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Aston Villa",
+      "XG": "1.2",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leicester City",
+      "XG": "0.8",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Leeds United",
+      "XG": "1.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nott'ham Forest",
+      "XG": "1.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Liverpool",
+      "XG": "1.6",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Everton",
+      "XG": "1.4",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Crystal Palace",
+      "XG": "0.9",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Manchester City",
+      "XG": "1.6",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Brighton",
+      "XG": "0.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Chelsea",
+      "XG": "1.1",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Manchester Utd",
+      "XG": "0.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Aston Villa",
+      "XG": "2.8",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Brentford",
+      "XG": "0.9",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Wolves",
+      "XG": "2.1",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Leicester City",
+      "XG": "0.9",
+      "Score": "4"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leeds United",
+      "XG": "1.6",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Fulham",
+      "XG": "1.8",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Southampton",
+      "XG": "0.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Arsenal",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Tottenham",
+      "XG": "1.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Newcastle Utd",
+      "XG": "1.2",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "West Ham",
+      "XG": "1.9",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Bournemouth",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leicester City",
+      "XG": "0.7",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Manchester City",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brentford",
+      "XG": "1.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Wolves",
+      "XG": "0.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Crystal Palace",
+      "XG": "0.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Southampton",
+      "XG": "1.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Newcastle Utd",
+      "XG": "3.4",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Aston Villa",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brighton",
+      "XG": "2.4",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Chelsea",
+      "XG": "1.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bournemouth",
+      "XG": "0.5",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Tottenham",
+      "XG": "2.0",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Fulham",
+      "XG": "1.9",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Everton",
+      "XG": "0.9",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Liverpool",
+      "XG": "1.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Leeds United",
+      "XG": "1.8",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Arsenal",
+      "XG": "2.3",
+      "Score": "5"
+    },
+    "Away Team": {
+      "Name": "Nott'ham Forest",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Manchester Utd",
+      "XG": "1.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "West Ham",
+      "XG": "1.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nott'ham Forest",
+      "XG": "1.5",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Brentford",
+      "XG": "1.5",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leeds United",
+      "XG": "2.2",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Bournemouth",
+      "XG": "1.5",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Manchester City",
+      "XG": "2.1",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Fulham",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Wolves",
+      "XG": "1.2",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Brighton",
+      "XG": "1.5",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Everton",
+      "XG": "1.2",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Leicester City",
+      "XG": "2.3",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Chelsea",
+      "XG": "0.3",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Arsenal",
+      "XG": "2.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "West Ham",
+      "XG": "0.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Crystal Palace",
+      "XG": "1.0",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Southampton",
+      "XG": "1.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Newcastle Utd",
+      "XG": "0.9",
+      "Score": "4"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Aston Villa",
+      "XG": "0.6",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Manchester Utd",
+      "XG": "0.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Tottenham",
+      "XG": "1.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Liverpool",
+      "XG": "1.2",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Manchester City",
+      "XG": "1.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Brentford",
+      "XG": "1.3",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Tottenham",
+      "XG": "1.8",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Leeds United",
+      "XG": "1.1",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Liverpool",
+      "XG": "1.9",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Southampton",
+      "XG": "1.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bournemouth",
+      "XG": "2.4",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Everton",
+      "XG": "0.8",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "West Ham",
+      "XG": "1.4",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Leicester City",
+      "XG": "1.8",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nott'ham Forest",
+      "XG": "1.1",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Crystal Palace",
+      "XG": "1.2",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Newcastle Utd",
+      "XG": "1.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Chelsea",
+      "XG": "0.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Wolves",
+      "XG": "0.7",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Arsenal",
+      "XG": "2.1",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brighton",
+      "XG": "0.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Aston Villa",
+      "XG": "1.5",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Fulham",
+      "XG": "1.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Manchester Utd",
+      "XG": "2.5",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brentford",
+      "XG": "2.0",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Tottenham",
+      "XG": "1.1",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Southampton",
+      "XG": "1.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Brighton",
+      "XG": "0.6",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leicester City",
+      "XG": "0.5",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Newcastle Utd",
+      "XG": "1.9",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Crystal Palace",
+      "XG": "0.4",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Fulham",
+      "XG": "2.5",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Everton",
+      "XG": "1.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Wolves",
+      "XG": "0.8",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Aston Villa",
+      "XG": "1.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Liverpool",
+      "XG": "2.7",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Arsenal",
+      "XG": "2.1",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "West Ham",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Chelsea",
+      "XG": "1.8",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Bournemouth",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Manchester Utd",
+      "XG": "2.4",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Nott'ham Forest",
+      "XG": "0.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leeds United",
+      "XG": "0.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Manchester City",
+      "XG": "4.3",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "West Ham",
+      "XG": "1.3",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Brentford",
+      "XG": "1.6",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Liverpool",
+      "XG": "2.2",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Leicester City",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Wolves",
+      "XG": "0.7",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Manchester Utd",
+      "XG": "2.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Newcastle Utd",
+      "XG": "2.2",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Leeds United",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Fulham",
+      "XG": "1.5",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Southampton",
+      "XG": "0.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Manchester City",
+      "XG": "1.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Everton",
+      "XG": "0.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bournemouth",
+      "XG": "0.6",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Crystal Palace",
+      "XG": "1.6",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brighton",
+      "XG": "1.2",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Arsenal",
+      "XG": "2.9",
+      "Score": "4"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Tottenham",
+      "XG": "0.7",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Aston Villa",
+      "XG": "1.0",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nott'ham Forest",
+      "XG": "1.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Chelsea",
+      "XG": "0.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brentford",
+      "XG": "1.7",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Liverpool",
+      "XG": "2.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leicester City",
+      "XG": "1.7",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Fulham",
+      "XG": "1.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Everton",
+      "XG": "1.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Brighton",
+      "XG": "2.2",
+      "Score": "4"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Arsenal",
+      "XG": "1.1",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Newcastle Utd",
+      "XG": "1.0",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Manchester Utd",
+      "XG": "2.2",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Bournemouth",
+      "XG": "0.6",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Southampton",
+      "XG": "0.5",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Nott'ham Forest",
+      "XG": "1.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leeds United",
+      "XG": "1.6",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "West Ham",
+      "XG": "1.4",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Aston Villa",
+      "XG": "1.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Wolves",
+      "XG": "0.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Crystal Palace",
+      "XG": "0.8",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Tottenham",
+      "XG": "1.4",
+      "Score": "4"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Chelsea",
+      "XG": "0.4",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Manchester City",
+      "XG": "2.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Fulham",
+      "XG": "1.0",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Chelsea",
+      "XG": "2.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Aston Villa",
+      "XG": "1.2",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Leeds United",
+      "XG": "2.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Manchester Utd",
+      "XG": "1.7",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Manchester City",
+      "XG": "0.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Everton",
+      "XG": "1.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Southampton",
+      "XG": "1.2",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Wolves",
+      "XG": "0.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "West Ham",
+      "XG": "1.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nott'ham Forest",
+      "XG": "2.4",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Leicester City",
+      "XG": "1.0",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brighton",
+      "XG": "1.9",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Liverpool",
+      "XG": "1.0",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brentford",
+      "XG": "1.4",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Bournemouth",
+      "XG": "0.6",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Chelsea",
+      "XG": "1.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Crystal Palace",
+      "XG": "0.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Newcastle Utd",
+      "XG": "2.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Fulham",
+      "XG": "1.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Tottenham",
+      "XG": "1.6",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Arsenal",
+      "XG": "1.8",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Crystal Palace",
+      "XG": "0.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Manchester Utd",
+      "XG": "2.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Manchester City",
+      "XG": "2.3",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Tottenham",
+      "XG": "0.8",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Liverpool",
+      "XG": "1.4",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Chelsea",
+      "XG": "1.6",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bournemouth",
+      "XG": "1.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Nott'ham Forest",
+      "XG": "1.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Southampton",
+      "XG": "0.6",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Aston Villa",
+      "XG": "1.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leicester City",
+      "XG": "0.9",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Brighton",
+      "XG": "1.7",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "West Ham",
+      "XG": "2.2",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Everton",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Crystal Palace",
+      "XG": "0.3",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Newcastle Utd",
+      "XG": "1.2",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Manchester City",
+      "XG": "2.8",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Wolves",
+      "XG": "0.8",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leeds United",
+      "XG": "0.5",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Brentford",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Arsenal",
+      "XG": "3.1",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Manchester Utd",
+      "XG": "0.4",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Fulham",
+      "XG": "1.0",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Tottenham",
+      "XG": "0.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Chelsea",
+      "XG": "1.3",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Fulham",
+      "XG": "0.6",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Everton",
+      "XG": "1.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Arsenal",
+      "XG": "0.9",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Aston Villa",
+      "XG": "1.7",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Leicester City",
+      "XG": "2.6",
+      "Score": "4"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Wolves",
+      "XG": "2.0",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Liverpool",
+      "XG": "1.8",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Manchester Utd",
+      "XG": "2.0",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Crystal Palace",
+      "XG": "1.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brighton",
+      "XG": "2.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Bournemouth",
+      "XG": "1.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brentford",
+      "XG": "2.2",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Southampton",
+      "XG": "0.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Newcastle Utd",
+      "XG": "1.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "West Ham",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nott'ham Forest",
+      "XG": "0.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Leeds United",
+      "XG": "0.9",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Tottenham",
+      "XG": "1.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Manchester City",
+      "XG": "1.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Manchester Utd",
+      "XG": "2.0",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Leeds United",
+      "XG": "0.6",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "West Ham",
+      "XG": "1.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Chelsea",
+      "XG": "1.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leicester City",
+      "XG": "1.7",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Tottenham",
+      "XG": "1.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Crystal Palace",
+      "XG": "1.1",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Brighton",
+      "XG": "2.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Arsenal",
+      "XG": "1.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Brentford",
+      "XG": "2.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Southampton",
+      "XG": "1.1",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Wolves",
+      "XG": "0.8",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Fulham",
+      "XG": "1.5",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Nott'ham Forest",
+      "XG": "0.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bournemouth",
+      "XG": "1.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Newcastle Utd",
+      "XG": "1.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leeds United",
+      "XG": "1.8",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Manchester Utd",
+      "XG": "1.1",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Manchester City",
+      "XG": "3.3",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Aston Villa",
+      "XG": "0.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Liverpool",
+      "XG": "2.3",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Everton",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Arsenal",
+      "XG": "1.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Manchester City",
+      "XG": "1.8",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Aston Villa",
+      "XG": "0.5",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Arsenal",
+      "XG": "3.2",
+      "Score": "4"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brighton",
+      "XG": "2.2",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Fulham",
+      "XG": "0.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nott'ham Forest",
+      "XG": "0.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Manchester City",
+      "XG": "2.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Chelsea",
+      "XG": "1.6",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Southampton",
+      "XG": "0.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Everton",
+      "XG": "1.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Leeds United",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Wolves",
+      "XG": "1.3",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Bournemouth",
+      "XG": "1.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brentford",
+      "XG": "0.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Crystal Palace",
+      "XG": "1.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Newcastle Utd",
+      "XG": "2.0",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Liverpool",
+      "XG": "1.9",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Manchester Utd",
+      "XG": "4.4",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Leicester City",
+      "XG": "1.6",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Tottenham",
+      "XG": "1.5",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "West Ham",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Fulham",
+      "XG": "0.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Wolves",
+      "XG": "0.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leicester City",
+      "XG": "0.0",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Arsenal",
+      "XG": "0.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Everton",
+      "XG": "1.6",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Aston Villa",
+      "XG": "1.9",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "West Ham",
+      "XG": "2.7",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Nott'ham Forest",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leeds United",
+      "XG": "0.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Southampton",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bournemouth",
+      "XG": "1.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Manchester City",
+      "XG": "2.4",
+      "Score": "4"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Crystal Palace",
+      "XG": "0.7",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Liverpool",
+      "XG": "0.9",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Tottenham",
+      "XG": "0.8",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Chelsea",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Arsenal",
+      "XG": "2.6",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Everton",
+      "XG": "1.2",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Liverpool",
+      "XG": "2.6",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Wolves",
+      "XG": "0.8",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Manchester City",
+      "XG": "1.3",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Newcastle Utd",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Arsenal",
+      "XG": "2.1",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Bournemouth",
+      "XG": "1.3",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Aston Villa",
+      "XG": "1.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Crystal Palace",
+      "XG": "0.2",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Chelsea",
+      "XG": "1.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Leeds United",
+      "XG": "1.0",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brighton",
+      "XG": "3.5",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "West Ham",
+      "XG": "0.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Wolves",
+      "XG": "0.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Tottenham",
+      "XG": "1.2",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Southampton",
+      "XG": "1.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Leicester City",
+      "XG": "1.9",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nott'ham Forest",
+      "XG": "0.8",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Everton",
+      "XG": "1.7",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Liverpool",
+      "XG": "2.8",
+      "Score": "7"
+    },
+    "Away Team": {
+      "Name": "Manchester Utd",
+      "XG": "0.8",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brentford",
+      "XG": "2.2",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Fulham",
+      "XG": "1.4",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bournemouth",
+      "XG": "0.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Liverpool",
+      "XG": "1.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leeds United",
+      "XG": "0.9",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Brighton",
+      "XG": "2.7",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Everton",
+      "XG": "1.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Brentford",
+      "XG": "2.0",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leicester City",
+      "XG": "2.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Chelsea",
+      "XG": "1.6",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Tottenham",
+      "XG": "2.0",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Nott'ham Forest",
+      "XG": "1.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Crystal Palace",
+      "XG": "0.2",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Manchester City",
+      "XG": "2.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Manchester Utd",
+      "XG": "0.8",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Southampton",
+      "XG": "1.0",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Fulham",
+      "XG": "0.8",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Arsenal",
+      "XG": "2.3",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "West Ham",
+      "XG": "2.1",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Aston Villa",
+      "XG": "1.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Newcastle Utd",
+      "XG": "1.8",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Wolves",
+      "XG": "1.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Southampton",
+      "XG": "0.5",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Brentford",
+      "XG": "1.9",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brighton",
+      "XG": "0.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Crystal Palace",
+      "XG": "1.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nott'ham Forest",
+      "XG": "0.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Newcastle Utd",
+      "XG": "2.4",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Wolves",
+      "XG": "2.7",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Leeds United",
+      "XG": "1.6",
+      "Score": "4"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brentford",
+      "XG": "0.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Leicester City",
+      "XG": "1.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Aston Villa",
+      "XG": "3.5",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Bournemouth",
+      "XG": "1.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Southampton",
+      "XG": "2.4",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Tottenham",
+      "XG": "2.3",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Chelsea",
+      "XG": "2.3",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Everton",
+      "XG": "1.2",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Arsenal",
+      "XG": "1.6",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Crystal Palace",
+      "XG": "0.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Manchester City",
+      "XG": "2.9",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Liverpool",
+      "XG": "0.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Arsenal",
+      "XG": "3.8",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Leeds United",
+      "XG": "0.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nott'ham Forest",
+      "XG": "1.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Wolves",
+      "XG": "0.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brighton",
+      "XG": "4.2",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Brentford",
+      "XG": "1.6",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Crystal Palace",
+      "XG": "2.3",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Leicester City",
+      "XG": "0.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bournemouth",
+      "XG": "2.6",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Fulham",
+      "XG": "0.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Chelsea",
+      "XG": "2.1",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Aston Villa",
+      "XG": "0.9",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "West Ham",
+      "XG": "1.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Southampton",
+      "XG": "0.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Newcastle Utd",
+      "XG": "3.7",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Manchester Utd",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Everton",
+      "XG": "0.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Tottenham",
+      "XG": "1.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leeds United",
+      "XG": "1.8",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Nott'ham Forest",
+      "XG": "0.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bournemouth",
+      "XG": "1.7",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Brighton",
+      "XG": "2.7",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leicester City",
+      "XG": "0.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Aston Villa",
+      "XG": "1.0",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Chelsea",
+      "XG": "2.2",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Liverpool",
+      "XG": "0.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "West Ham",
+      "XG": "1.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Newcastle Utd",
+      "XG": "3.3",
+      "Score": "5"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Manchester Utd",
+      "XG": "1.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Brentford",
+      "XG": "0.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Manchester Utd",
+      "XG": "3.4",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Everton",
+      "XG": "1.0",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Fulham",
+      "XG": "0.7",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "West Ham",
+      "XG": "1.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Aston Villa",
+      "XG": "1.3",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Nott'ham Forest",
+      "XG": "0.2",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leicester City",
+      "XG": "0.7",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Bournemouth",
+      "XG": "2.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brentford",
+      "XG": "2.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Newcastle Utd",
+      "XG": "1.3",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Wolves",
+      "XG": "0.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Chelsea",
+      "XG": "1.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Tottenham",
+      "XG": "0.8",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Brighton",
+      "XG": "1.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Southampton",
+      "XG": "0.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Manchester City",
+      "XG": "2.9",
+      "Score": "4"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leeds United",
+      "XG": "0.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Crystal Palace",
+      "XG": "3.0",
+      "Score": "5"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Liverpool",
+      "XG": "3.9",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Arsenal",
+      "XG": "1.4",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Aston Villa",
+      "XG": "1.9",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Newcastle Utd",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Chelsea",
+      "XG": "0.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Brighton",
+      "XG": "2.9",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Southampton",
+      "XG": "0.8",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Crystal Palace",
+      "XG": "0.9",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Wolves",
+      "XG": "0.8",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Brentford",
+      "XG": "1.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Tottenham",
+      "XG": "2.2",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Bournemouth",
+      "XG": "1.3",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Everton",
+      "XG": "1.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Fulham",
+      "XG": "1.8",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Manchester City",
+      "XG": "1.6",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Leicester City",
+      "XG": "2.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "West Ham",
+      "XG": "1.8",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Arsenal",
+      "XG": "2.7",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nott'ham Forest",
+      "XG": "0.7",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Manchester Utd",
+      "XG": "3.5",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leeds United",
+      "XG": "1.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Liverpool",
+      "XG": "2.7",
+      "Score": "6"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Arsenal",
+      "XG": "2.5",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Southampton",
+      "XG": "1.3",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Fulham",
+      "XG": "1.7",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Leeds United",
+      "XG": "0.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Crystal Palace",
+      "XG": "0.5",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Everton",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brentford",
+      "XG": "2.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Aston Villa",
+      "XG": "1.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Liverpool",
+      "XG": "2.8",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Nott'ham Forest",
+      "XG": "0.9",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leicester City",
+      "XG": "2.4",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Wolves",
+      "XG": "0.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bournemouth",
+      "XG": "1.5",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "West Ham",
+      "XG": "2.4",
+      "Score": "4"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Newcastle Utd",
+      "XG": "3.7",
+      "Score": "6"
+    },
+    "Away Team": {
+      "Name": "Tottenham",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Wolves",
+      "XG": "1.4",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Crystal Palace",
+      "XG": "0.8",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Aston Villa",
+      "XG": "1.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Fulham",
+      "XG": "0.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leeds United",
+      "XG": "1.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Leicester City",
+      "XG": "2.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nott'ham Forest",
+      "XG": "2.4",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Brighton",
+      "XG": "2.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Chelsea",
+      "XG": "1.3",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Brentford",
+      "XG": "1.1",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "West Ham",
+      "XG": "0.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Liverpool",
+      "XG": "1.9",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Manchester City",
+      "XG": "2.5",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Arsenal",
+      "XG": "0.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Everton",
+      "XG": "0.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Newcastle Utd",
+      "XG": "2.4",
+      "Score": "4"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Southampton",
+      "XG": "0.5",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Bournemouth",
+      "XG": "0.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Tottenham",
+      "XG": "2.5",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Manchester Utd",
+      "XG": "2.0",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Crystal Palace",
+      "XG": "2.1",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "West Ham",
+      "XG": "1.7",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brighton",
+      "XG": "3.3",
+      "Score": "6"
+    },
+    "Away Team": {
+      "Name": "Wolves",
+      "XG": "0.8",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brentford",
+      "XG": "1.6",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Nott'ham Forest",
+      "XG": "0.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Manchester Utd",
+      "XG": "1.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Aston Villa",
+      "XG": "0.6",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bournemouth",
+      "XG": "1.9",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Leeds United",
+      "XG": "1.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Newcastle Utd",
+      "XG": "4.3",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Southampton",
+      "XG": "0.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Fulham",
+      "XG": "0.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Manchester City",
+      "XG": "2.5",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Liverpool",
+      "XG": "2.2",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Tottenham",
+      "XG": "2.0",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leicester City",
+      "XG": "3.4",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Everton",
+      "XG": "3.1",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Arsenal",
+      "XG": "1.7",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Chelsea",
+      "XG": "0.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Liverpool",
+      "XG": "1.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Fulham",
+      "XG": "0.9",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Manchester City",
+      "XG": "2.3",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "West Ham",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brighton",
+      "XG": "2.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Manchester Utd",
+      "XG": "1.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Tottenham",
+      "XG": "0.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Crystal Palace",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Wolves",
+      "XG": "0.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Aston Villa",
+      "XG": "1.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bournemouth",
+      "XG": "1.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Chelsea",
+      "XG": "1.3",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Manchester City",
+      "XG": "2.6",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Leeds United",
+      "XG": "0.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Liverpool",
+      "XG": "2.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Brentford",
+      "XG": "0.2",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Newcastle Utd",
+      "XG": "1.3",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Arsenal",
+      "XG": "1.3",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "West Ham",
+      "XG": "1.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Manchester Utd",
+      "XG": "1.2",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Fulham",
+      "XG": "1.6",
+      "Score": "5"
+    },
+    "Away Team": {
+      "Name": "Leicester City",
+      "XG": "2.8",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brighton",
+      "XG": "3.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Everton",
+      "XG": "2.3",
+      "Score": "5"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nott'ham Forest",
+      "XG": "1.8",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Southampton",
+      "XG": "3.1",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leeds United",
+      "XG": "2.1",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Newcastle Utd",
+      "XG": "2.4",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Aston Villa",
+      "XG": "1.2",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Tottenham",
+      "XG": "1.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Chelsea",
+      "XG": "1.2",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Nott'ham Forest",
+      "XG": "1.3",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Crystal Palace",
+      "XG": "1.5",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Bournemouth",
+      "XG": "0.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Southampton",
+      "XG": "0.4",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Fulham",
+      "XG": "1.4",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Manchester Utd",
+      "XG": "3.2",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Wolves",
+      "XG": "0.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Everton",
+      "XG": "1.6",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Manchester City",
+      "XG": "0.8",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brentford",
+      "XG": "3.4",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "West Ham",
+      "XG": "0.2",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Arsenal",
+      "XG": "0.9",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Brighton",
+      "XG": "1.7",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leicester City",
+      "XG": "0.4",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Liverpool",
+      "XG": "2.2",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Newcastle Utd",
+      "XG": "3.6",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Brighton",
+      "XG": "0.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Tottenham",
+      "XG": "1.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Brentford",
+      "XG": "1.3",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Liverpool",
+      "XG": "0.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Aston Villa",
+      "XG": "1.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Fulham",
+      "XG": "1.7",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Crystal Palace",
+      "XG": "1.6",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bournemouth",
+      "XG": "1.0",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Manchester Utd",
+      "XG": "1.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Wolves",
+      "XG": "1.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Everton",
+      "XG": "2.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nott'ham Forest",
+      "XG": "0.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Arsenal",
+      "XG": "0.6",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "West Ham",
+      "XG": "2.1",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Leeds United",
+      "XG": "0.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brighton",
+      "XG": "2.5",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Southampton",
+      "XG": "0.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Manchester City",
+      "XG": "1.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Chelsea",
+      "XG": "1.2",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Newcastle Utd",
+      "XG": "2.1",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Leicester City",
+      "XG": "0.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brighton",
+      "XG": "2.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Manchester City",
+      "XG": "1.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Manchester Utd",
+      "XG": "5.2",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Chelsea",
+      "XG": "1.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Crystal Palace",
+      "XG": "1.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Nott'ham Forest",
+      "XG": "0.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Chelsea",
+      "XG": "2.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Newcastle Utd",
+      "XG": "1.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Manchester Utd",
+      "XG": "2.9",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Fulham",
+      "XG": "1.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Arsenal",
+      "XG": "2.8",
+      "Score": "5"
+    },
+    "Away Team": {
+      "Name": "Wolves",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Southampton",
+      "XG": "1.8",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Liverpool",
+      "XG": "4.0",
+      "Score": "4"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Everton",
+      "XG": "1.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Bournemouth",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leicester City",
+      "XG": "1.4",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "West Ham",
+      "XG": "1.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Aston Villa",
+      "XG": "2.8",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Brighton",
+      "XG": "1.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leeds United",
+      "XG": "1.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Tottenham",
+      "XG": "2.2",
+      "Score": "4"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brentford",
+      "XG": "1.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Manchester City",
+      "XG": "1.6",
+      "Score": "0"
+    }
+  }
+]

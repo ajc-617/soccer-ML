@@ -1,0 +1,4562 @@
+[
+  {
+    "Home Team": {
+      "Name": "Sampdoria",
+      "XG": "1.0",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Atalanta",
+      "XG": "2.2",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Milan",
+      "XG": "2.3",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Udinese",
+      "XG": "0.5",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Monza",
+      "XG": "1.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Torino",
+      "XG": "2.1",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lecce",
+      "XG": "0.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Inter",
+      "XG": "2.1",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Fiorentina",
+      "XG": "2.0",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Cremonese",
+      "XG": "1.3",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lazio",
+      "XG": "0.7",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Bologna",
+      "XG": "1.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Spezia",
+      "XG": "0.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Empoli",
+      "XG": "0.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Salernitana",
+      "XG": "0.6",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Roma",
+      "XG": "2.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hellas Verona",
+      "XG": "1.1",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Napoli",
+      "XG": "2.4",
+      "Score": "5"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Juventus",
+      "XG": "2.0",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Sassuolo",
+      "XG": "0.9",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Torino",
+      "XG": "0.7",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Lazio",
+      "XG": "0.8",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Udinese",
+      "XG": "1.1",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Salernitana",
+      "XG": "1.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Inter",
+      "XG": "2.1",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Spezia",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sassuolo",
+      "XG": "0.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Lecce",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Empoli",
+      "XG": "0.4",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Fiorentina",
+      "XG": "0.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Napoli",
+      "XG": "2.0",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Monza",
+      "XG": "0.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bologna",
+      "XG": "0.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Hellas Verona",
+      "XG": "1.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Atalanta",
+      "XG": "0.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Milan",
+      "XG": "1.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Roma",
+      "XG": "2.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Cremonese",
+      "XG": "0.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sampdoria",
+      "XG": "0.9",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Juventus",
+      "XG": "0.8",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Monza",
+      "XG": "1.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Udinese",
+      "XG": "1.7",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lazio",
+      "XG": "1.1",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Inter",
+      "XG": "1.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Juventus",
+      "XG": "0.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Roma",
+      "XG": "1.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Cremonese",
+      "XG": "0.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Torino",
+      "XG": "1.7",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Milan",
+      "XG": "1.9",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Bologna",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Spezia",
+      "XG": "1.2",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Sassuolo",
+      "XG": "2.8",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Salernitana",
+      "XG": "1.7",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Sampdoria",
+      "XG": "1.8",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hellas Verona",
+      "XG": "0.5",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Atalanta",
+      "XG": "0.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lecce",
+      "XG": "0.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Empoli",
+      "XG": "0.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Fiorentina",
+      "XG": "0.5",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Napoli",
+      "XG": "1.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sassuolo",
+      "XG": "1.1",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Milan",
+      "XG": "0.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Inter",
+      "XG": "2.2",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Cremonese",
+      "XG": "1.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Roma",
+      "XG": "1.8",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Monza",
+      "XG": "0.9",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sampdoria",
+      "XG": "0.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Lazio",
+      "XG": "1.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Udinese",
+      "XG": "1.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Fiorentina",
+      "XG": "0.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Empoli",
+      "XG": "1.1",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Hellas Verona",
+      "XG": "0.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Juventus",
+      "XG": "0.9",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Spezia",
+      "XG": "0.2",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Napoli",
+      "XG": "1.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Lecce",
+      "XG": "1.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Atalanta",
+      "XG": "2.9",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Torino",
+      "XG": "0.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bologna",
+      "XG": "1.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Salernitana",
+      "XG": "1.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Fiorentina",
+      "XG": "2.1",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Juventus",
+      "XG": "0.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Milan",
+      "XG": "1.3",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Inter",
+      "XG": "1.8",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lazio",
+      "XG": "0.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Napoli",
+      "XG": "2.1",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Cremonese",
+      "XG": "0.4",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Sassuolo",
+      "XG": "1.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Spezia",
+      "XG": "0.9",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Bologna",
+      "XG": "0.9",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hellas Verona",
+      "XG": "2.5",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Sampdoria",
+      "XG": "0.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Udinese",
+      "XG": "1.2",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Roma",
+      "XG": "0.8",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Salernitana",
+      "XG": "1.3",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Empoli",
+      "XG": "0.9",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Monza",
+      "XG": "0.6",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Atalanta",
+      "XG": "1.9",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Torino",
+      "XG": "1.1",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Lecce",
+      "XG": "0.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Napoli",
+      "XG": "2.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Spezia",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Inter",
+      "XG": "1.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Torino",
+      "XG": "0.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sampdoria",
+      "XG": "0.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Milan",
+      "XG": "1.7",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Atalanta",
+      "XG": "0.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Cremonese",
+      "XG": "0.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bologna",
+      "XG": "0.6",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Fiorentina",
+      "XG": "1.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lecce",
+      "XG": "0.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Monza",
+      "XG": "0.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sassuolo",
+      "XG": "0.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Udinese",
+      "XG": "2.1",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lazio",
+      "XG": "1.1",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Hellas Verona",
+      "XG": "0.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Juventus",
+      "XG": "1.9",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Salernitana",
+      "XG": "1.6",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Empoli",
+      "XG": "1.1",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Roma",
+      "XG": "3.0",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Salernitana",
+      "XG": "1.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Lecce",
+      "XG": "1.5",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bologna",
+      "XG": "1.6",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Empoli",
+      "XG": "1.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Spezia",
+      "XG": "0.7",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Sampdoria",
+      "XG": "0.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Torino",
+      "XG": "0.7",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Sassuolo",
+      "XG": "0.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Udinese",
+      "XG": "1.6",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Inter",
+      "XG": "1.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Cremonese",
+      "XG": "1.3",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Lazio",
+      "XG": "3.1",
+      "Score": "4"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Monza",
+      "XG": "2.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Juventus",
+      "XG": "0.9",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Fiorentina",
+      "XG": "2.4",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Hellas Verona",
+      "XG": "0.6",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Roma",
+      "XG": "2.4",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Atalanta",
+      "XG": "0.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Milan",
+      "XG": "2.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Napoli",
+      "XG": "1.4",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Napoli",
+      "XG": "1.6",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Torino",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Inter",
+      "XG": "1.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Roma",
+      "XG": "1.0",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Empoli",
+      "XG": "1.1",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Milan",
+      "XG": "2.3",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lazio",
+      "XG": "2.3",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Spezia",
+      "XG": "1.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sassuolo",
+      "XG": "3.2",
+      "Score": "5"
+    },
+    "Away Team": {
+      "Name": "Salernitana",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lecce",
+      "XG": "1.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Cremonese",
+      "XG": "1.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sampdoria",
+      "XG": "0.1",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Monza",
+      "XG": "1.4",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Atalanta",
+      "XG": "1.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Fiorentina",
+      "XG": "0.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Juventus",
+      "XG": "1.8",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Bologna",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hellas Verona",
+      "XG": "0.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Udinese",
+      "XG": "1.8",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sassuolo",
+      "XG": "1.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Inter",
+      "XG": "2.3",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Milan",
+      "XG": "2.2",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Juventus",
+      "XG": "0.8",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bologna",
+      "XG": "0.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Sampdoria",
+      "XG": "0.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Torino",
+      "XG": "2.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Empoli",
+      "XG": "0.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Udinese",
+      "XG": "1.0",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Atalanta",
+      "XG": "2.1",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Salernitana",
+      "XG": "1.1",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Hellas Verona",
+      "XG": "0.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Monza",
+      "XG": "0.7",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Spezia",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Cremonese",
+      "XG": "0.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Napoli",
+      "XG": "4.1",
+      "Score": "4"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Roma",
+      "XG": "3.2",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Lecce",
+      "XG": "0.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Fiorentina",
+      "XG": "2.2",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Lazio",
+      "XG": "1.6",
+      "Score": "4"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Empoli",
+      "XG": "1.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Monza",
+      "XG": "1.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Torino",
+      "XG": "0.6",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Juventus",
+      "XG": "2.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Atalanta",
+      "XG": "2.5",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Sassuolo",
+      "XG": "0.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Inter",
+      "XG": "1.7",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Salernitana",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lazio",
+      "XG": "0.8",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Udinese",
+      "XG": "0.9",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Spezia",
+      "XG": "1.5",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Cremonese",
+      "XG": "2.1",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Napoli",
+      "XG": "2.6",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Bologna",
+      "XG": "1.3",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hellas Verona",
+      "XG": "2.1",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Milan",
+      "XG": "1.9",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sampdoria",
+      "XG": "0.2",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Roma",
+      "XG": "1.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lecce",
+      "XG": "1.1",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Fiorentina",
+      "XG": "0.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Juventus",
+      "XG": "3.5",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Empoli",
+      "XG": "0.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Salernitana",
+      "XG": "1.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Spezia",
+      "XG": "0.9",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Milan",
+      "XG": "1.1",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Monza",
+      "XG": "1.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Fiorentina",
+      "XG": "1.3",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Inter",
+      "XG": "2.4",
+      "Score": "4"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Udinese",
+      "XG": "2.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Torino",
+      "XG": "1.5",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bologna",
+      "XG": "1.8",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Lecce",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Atalanta",
+      "XG": "0.8",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Lazio",
+      "XG": "0.9",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Roma",
+      "XG": "0.3",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Napoli",
+      "XG": "0.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Cremonese",
+      "XG": "2.0",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Sampdoria",
+      "XG": "1.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sassuolo",
+      "XG": "1.5",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Hellas Verona",
+      "XG": "1.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Napoli",
+      "XG": "2.1",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Sassuolo",
+      "XG": "1.0",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lecce",
+      "XG": "0.2",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Juventus",
+      "XG": "0.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Inter",
+      "XG": "2.0",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Sampdoria",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Empoli",
+      "XG": "0.8",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Atalanta",
+      "XG": "3.0",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Spezia",
+      "XG": "1.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Fiorentina",
+      "XG": "2.1",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Cremonese",
+      "XG": "0.7",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Udinese",
+      "XG": "1.0",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lazio",
+      "XG": "1.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Salernitana",
+      "XG": "1.5",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Torino",
+      "XG": "0.6",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Milan",
+      "XG": "1.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hellas Verona",
+      "XG": "0.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Roma",
+      "XG": "3.1",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Monza",
+      "XG": "1.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Bologna",
+      "XG": "1.3",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Udinese",
+      "XG": "1.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Lecce",
+      "XG": "0.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Empoli",
+      "XG": "1.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Sassuolo",
+      "XG": "0.6",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Salernitana",
+      "XG": "1.3",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Cremonese",
+      "XG": "1.7",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Atalanta",
+      "XG": "2.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Napoli",
+      "XG": "1.3",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Milan",
+      "XG": "2.2",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Spezia",
+      "XG": "1.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bologna",
+      "XG": "2.0",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Torino",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Monza",
+      "XG": "1.3",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Hellas Verona",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sampdoria",
+      "XG": "0.8",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Fiorentina",
+      "XG": "0.9",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Roma",
+      "XG": "0.5",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Lazio",
+      "XG": "0.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Juventus",
+      "XG": "0.9",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Inter",
+      "XG": "1.2",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Napoli",
+      "XG": "2.0",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Empoli",
+      "XG": "0.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Spezia",
+      "XG": "2.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Udinese",
+      "XG": "0.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Cremonese",
+      "XG": "0.3",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Milan",
+      "XG": "1.0",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lecce",
+      "XG": "1.1",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Atalanta",
+      "XG": "1.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sassuolo",
+      "XG": "1.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Roma",
+      "XG": "0.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Fiorentina",
+      "XG": "2.8",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Salernitana",
+      "XG": "0.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Torino",
+      "XG": "0.5",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Sampdoria",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Inter",
+      "XG": "2.6",
+      "Score": "6"
+    },
+    "Away Team": {
+      "Name": "Bologna",
+      "XG": "0.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hellas Verona",
+      "XG": "1.2",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Juventus",
+      "XG": "1.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lazio",
+      "XG": "1.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Monza",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Empoli",
+      "XG": "2.2",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Cremonese",
+      "XG": "1.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Napoli",
+      "XG": "1.5",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Udinese",
+      "XG": "0.7",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sampdoria",
+      "XG": "0.7",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Lecce",
+      "XG": "0.6",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bologna",
+      "XG": "0.8",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Sassuolo",
+      "XG": "0.8",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Atalanta",
+      "XG": "1.8",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Inter",
+      "XG": "2.2",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Roma",
+      "XG": "1.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Torino",
+      "XG": "0.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Monza",
+      "XG": "2.4",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Salernitana",
+      "XG": "0.2",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hellas Verona",
+      "XG": "2.1",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Spezia",
+      "XG": "0.8",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Milan",
+      "XG": "1.5",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Fiorentina",
+      "XG": "0.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Juventus",
+      "XG": "1.6",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Lazio",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sassuolo",
+      "XG": "1.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Sampdoria",
+      "XG": "1.3",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Salernitana",
+      "XG": "0.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Milan",
+      "XG": "2.7",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Spezia",
+      "XG": "1.5",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Atalanta",
+      "XG": "2.1",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Torino",
+      "XG": "0.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Hellas Verona",
+      "XG": "0.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Roma",
+      "XG": "1.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Bologna",
+      "XG": "0.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lecce",
+      "XG": "1.3",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Lazio",
+      "XG": "0.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Fiorentina",
+      "XG": "1.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Monza",
+      "XG": "1.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Cremonese",
+      "XG": "0.9",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Juventus",
+      "XG": "1.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Inter",
+      "XG": "1.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Napoli",
+      "XG": "0.9",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Udinese",
+      "XG": "1.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Empoli",
+      "XG": "0.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Fiorentina",
+      "XG": "2.2",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Sassuolo",
+      "XG": "1.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Juventus",
+      "XG": "2.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Udinese",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Monza",
+      "XG": "1.5",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Inter",
+      "XG": "1.7",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Salernitana",
+      "XG": "0.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Torino",
+      "XG": "2.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Spezia",
+      "XG": "0.9",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Lecce",
+      "XG": "1.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lazio",
+      "XG": "0.9",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Empoli",
+      "XG": "0.6",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sampdoria",
+      "XG": "0.6",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Napoli",
+      "XG": "3.2",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Milan",
+      "XG": "0.9",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Roma",
+      "XG": "1.2",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hellas Verona",
+      "XG": "1.5",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Cremonese",
+      "XG": "0.8",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bologna",
+      "XG": "0.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Atalanta",
+      "XG": "0.5",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Napoli",
+      "XG": "2.1",
+      "Score": "5"
+    },
+    "Away Team": {
+      "Name": "Juventus",
+      "XG": "1.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Cremonese",
+      "XG": "0.7",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Monza",
+      "XG": "2.2",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lecce",
+      "XG": "1.4",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Milan",
+      "XG": "1.4",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Inter",
+      "XG": "0.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Hellas Verona",
+      "XG": "0.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sassuolo",
+      "XG": "0.7",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Lazio",
+      "XG": "2.7",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Udinese",
+      "XG": "1.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Bologna",
+      "XG": "2.0",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Torino",
+      "XG": "1.0",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Spezia",
+      "XG": "1.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Atalanta",
+      "XG": "2.9",
+      "Score": "8"
+    },
+    "Away Team": {
+      "Name": "Salernitana",
+      "XG": "1.0",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Roma",
+      "XG": "0.9",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Fiorentina",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Empoli",
+      "XG": "1.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Sampdoria",
+      "XG": "0.9",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hellas Verona",
+      "XG": "0.5",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Lecce",
+      "XG": "0.8",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Salernitana",
+      "XG": "0.4",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Napoli",
+      "XG": "1.4",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Fiorentina",
+      "XG": "1.2",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Torino",
+      "XG": "0.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sampdoria",
+      "XG": "1.3",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Udinese",
+      "XG": "1.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Monza",
+      "XG": "1.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Sassuolo",
+      "XG": "1.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Spezia",
+      "XG": "0.2",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Roma",
+      "XG": "2.0",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Juventus",
+      "XG": "1.9",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Atalanta",
+      "XG": "1.0",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bologna",
+      "XG": "1.1",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Cremonese",
+      "XG": "1.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Inter",
+      "XG": "1.4",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Empoli",
+      "XG": "0.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lazio",
+      "XG": "3.1",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Milan",
+      "XG": "0.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bologna",
+      "XG": "1.6",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Spezia",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lecce",
+      "XG": "1.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Salernitana",
+      "XG": "0.9",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Empoli",
+      "XG": "0.6",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Torino",
+      "XG": "1.0",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Cremonese",
+      "XG": "1.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Inter",
+      "XG": "2.3",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Atalanta",
+      "XG": "1.8",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Sampdoria",
+      "XG": "0.8",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Milan",
+      "XG": "0.6",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Sassuolo",
+      "XG": "2.2",
+      "Score": "5"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Juventus",
+      "XG": "1.6",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Monza",
+      "XG": "1.2",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lazio",
+      "XG": "0.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Fiorentina",
+      "XG": "1.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Napoli",
+      "XG": "1.0",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Roma",
+      "XG": "0.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Udinese",
+      "XG": "1.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Hellas Verona",
+      "XG": "0.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Cremonese",
+      "XG": "0.6",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Lecce",
+      "XG": "1.5",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Roma",
+      "XG": "1.2",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Empoli",
+      "XG": "1.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sassuolo",
+      "XG": "1.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Atalanta",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Spezia",
+      "XG": "0.4",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Napoli",
+      "XG": "1.9",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Torino",
+      "XG": "1.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Udinese",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Fiorentina",
+      "XG": "1.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Bologna",
+      "XG": "1.8",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Inter",
+      "XG": "0.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Milan",
+      "XG": "0.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hellas Verona",
+      "XG": "1.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Lazio",
+      "XG": "0.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Monza",
+      "XG": "2.1",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Sampdoria",
+      "XG": "1.2",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Salernitana",
+      "XG": "0.8",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Juventus",
+      "XG": "2.2",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Milan",
+      "XG": "1.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Torino",
+      "XG": "0.8",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Empoli",
+      "XG": "1.6",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Spezia",
+      "XG": "1.5",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lecce",
+      "XG": "0.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Roma",
+      "XG": "1.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lazio",
+      "XG": "0.9",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Atalanta",
+      "XG": "2.8",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Udinese",
+      "XG": "1.6",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Sassuolo",
+      "XG": "0.7",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bologna",
+      "XG": "0.9",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Monza",
+      "XG": "0.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Juventus",
+      "XG": "1.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Fiorentina",
+      "XG": "0.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Napoli",
+      "XG": "1.8",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Cremonese",
+      "XG": "0.2",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hellas Verona",
+      "XG": "1.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Salernitana",
+      "XG": "0.9",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sampdoria",
+      "XG": "0.5",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Inter",
+      "XG": "1.8",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sassuolo",
+      "XG": "0.8",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Napoli",
+      "XG": "1.6",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sampdoria",
+      "XG": "2.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Bologna",
+      "XG": "0.9",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Monza",
+      "XG": "0.5",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Milan",
+      "XG": "2.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Inter",
+      "XG": "2.7",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Udinese",
+      "XG": "0.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Atalanta",
+      "XG": "1.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Lecce",
+      "XG": "0.4",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Salernitana",
+      "XG": "0.4",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Lazio",
+      "XG": "3.0",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Fiorentina",
+      "XG": "2.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Empoli",
+      "XG": "0.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Spezia",
+      "XG": "1.3",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Juventus",
+      "XG": "1.1",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Roma",
+      "XG": "0.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Hellas Verona",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Torino",
+      "XG": "2.4",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Cremonese",
+      "XG": "0.6",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Empoli",
+      "XG": "0.6",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Napoli",
+      "XG": "2.5",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lecce",
+      "XG": "1.2",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Sassuolo",
+      "XG": "1.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bologna",
+      "XG": "1.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Inter",
+      "XG": "1.0",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Salernitana",
+      "XG": "2.4",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Monza",
+      "XG": "1.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Udinese",
+      "XG": "2.5",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Spezia",
+      "XG": "2.5",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Milan",
+      "XG": "1.8",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Atalanta",
+      "XG": "0.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hellas Verona",
+      "XG": "1.2",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Fiorentina",
+      "XG": "1.4",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lazio",
+      "XG": "1.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Sampdoria",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Cremonese",
+      "XG": "1.0",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Roma",
+      "XG": "1.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Juventus",
+      "XG": "1.5",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Torino",
+      "XG": "1.2",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Napoli",
+      "XG": "0.9",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Lazio",
+      "XG": "0.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Monza",
+      "XG": "0.7",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Empoli",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Atalanta",
+      "XG": "1.4",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Udinese",
+      "XG": "0.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Fiorentina",
+      "XG": "2.1",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Milan",
+      "XG": "0.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Spezia",
+      "XG": "1.2",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Hellas Verona",
+      "XG": "1.2",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sampdoria",
+      "XG": "0.5",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Salernitana",
+      "XG": "0.8",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Inter",
+      "XG": "0.8",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Lecce",
+      "XG": "0.6",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Roma",
+      "XG": "0.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Juventus",
+      "XG": "0.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sassuolo",
+      "XG": "1.0",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Cremonese",
+      "XG": "1.2",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Torino",
+      "XG": "0.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Bologna",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Spezia",
+      "XG": "1.0",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Inter",
+      "XG": "3.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Empoli",
+      "XG": "1.2",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Udinese",
+      "XG": "1.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Napoli",
+      "XG": "1.3",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Atalanta",
+      "XG": "0.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bologna",
+      "XG": "0.9",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Lazio",
+      "XG": "0.8",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lecce",
+      "XG": "0.5",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Torino",
+      "XG": "0.1",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Cremonese",
+      "XG": "1.8",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Fiorentina",
+      "XG": "1.7",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hellas Verona",
+      "XG": "0.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Monza",
+      "XG": "1.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Roma",
+      "XG": "1.5",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Sassuolo",
+      "XG": "3.5",
+      "Score": "4"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Juventus",
+      "XG": "2.8",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Sampdoria",
+      "XG": "0.8",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Milan",
+      "XG": "2.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Salernitana",
+      "XG": "0.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sassuolo",
+      "XG": "2.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Spezia",
+      "XG": "0.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Atalanta",
+      "XG": "2.9",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Empoli",
+      "XG": "0.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Monza",
+      "XG": "2.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Cremonese",
+      "XG": "0.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Salernitana",
+      "XG": "0.9",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Bologna",
+      "XG": "0.4",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Udinese",
+      "XG": "1.8",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Milan",
+      "XG": "1.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sampdoria",
+      "XG": "1.2",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Hellas Verona",
+      "XG": "1.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Fiorentina",
+      "XG": "1.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Lecce",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Torino",
+      "XG": "1.3",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Napoli",
+      "XG": "2.3",
+      "Score": "4"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lazio",
+      "XG": "0.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Roma",
+      "XG": "0.6",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Inter",
+      "XG": "1.2",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Juventus",
+      "XG": "0.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Cremonese",
+      "XG": "1.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Atalanta",
+      "XG": "2.9",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Inter",
+      "XG": "2.8",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Fiorentina",
+      "XG": "1.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Juventus",
+      "XG": "1.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Hellas Verona",
+      "XG": "0.6",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bologna",
+      "XG": "0.7",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Udinese",
+      "XG": "0.8",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Spezia",
+      "XG": "2.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Salernitana",
+      "XG": "1.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Monza",
+      "XG": "1.3",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Lazio",
+      "XG": "0.5",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Roma",
+      "XG": "3.0",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Sampdoria",
+      "XG": "0.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Napoli",
+      "XG": "1.2",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Milan",
+      "XG": "2.1",
+      "Score": "4"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Empoli",
+      "XG": "1.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Lecce",
+      "XG": "0.2",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sassuolo",
+      "XG": "1.1",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Torino",
+      "XG": "1.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Salernitana",
+      "XG": "1.1",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Inter",
+      "XG": "2.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lecce",
+      "XG": "1.1",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Napoli",
+      "XG": "1.1",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Milan",
+      "XG": "1.9",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Empoli",
+      "XG": "0.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Udinese",
+      "XG": "1.8",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Monza",
+      "XG": "1.1",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Fiorentina",
+      "XG": "1.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Spezia",
+      "XG": "0.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Atalanta",
+      "XG": "1.3",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Bologna",
+      "XG": "1.3",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sampdoria",
+      "XG": "2.1",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Cremonese",
+      "XG": "1.3",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hellas Verona",
+      "XG": "0.5",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Sassuolo",
+      "XG": "1.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Torino",
+      "XG": "0.3",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Roma",
+      "XG": "1.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lazio",
+      "XG": "1.2",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Juventus",
+      "XG": "1.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Cremonese",
+      "XG": "1.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Empoli",
+      "XG": "1.2",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Spezia",
+      "XG": "0.7",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Lazio",
+      "XG": "2.8",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bologna",
+      "XG": "0.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Milan",
+      "XG": "1.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Napoli",
+      "XG": "0.4",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Hellas Verona",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Inter",
+      "XG": "2.1",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Monza",
+      "XG": "0.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lecce",
+      "XG": "2.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Sampdoria",
+      "XG": "0.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Torino",
+      "XG": "1.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Salernitana",
+      "XG": "0.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sassuolo",
+      "XG": "0.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Juventus",
+      "XG": "1.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Roma",
+      "XG": "2.5",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Udinese",
+      "XG": "1.2",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Fiorentina",
+      "XG": "1.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Atalanta",
+      "XG": "0.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hellas Verona",
+      "XG": "1.4",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Bologna",
+      "XG": "1.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Salernitana",
+      "XG": "1.3",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Sassuolo",
+      "XG": "0.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lazio",
+      "XG": "0.6",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Torino",
+      "XG": "0.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sampdoria",
+      "XG": "1.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Spezia",
+      "XG": "2.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Empoli",
+      "XG": "0.9",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Inter",
+      "XG": "1.1",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Udinese",
+      "XG": "1.6",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Cremonese",
+      "XG": "0.9",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Monza",
+      "XG": "1.5",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Fiorentina",
+      "XG": "1.3",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Milan",
+      "XG": "0.8",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Lecce",
+      "XG": "1.2",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Juventus",
+      "XG": "0.4",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Napoli",
+      "XG": "1.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Atalanta",
+      "XG": "0.9",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Roma",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lecce",
+      "XG": "2.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Udinese",
+      "XG": "0.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Spezia",
+      "XG": "1.7",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Monza",
+      "XG": "0.9",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Roma",
+      "XG": "1.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Milan",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Torino",
+      "XG": "0.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Atalanta",
+      "XG": "0.5",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Inter",
+      "XG": "3.1",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Lazio",
+      "XG": "0.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Cremonese",
+      "XG": "0.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Hellas Verona",
+      "XG": "1.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sassuolo",
+      "XG": "1.8",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Empoli",
+      "XG": "0.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Napoli",
+      "XG": "1.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Salernitana",
+      "XG": "0.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Fiorentina",
+      "XG": "1.7",
+      "Score": "5"
+    },
+    "Away Team": {
+      "Name": "Sampdoria",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bologna",
+      "XG": "1.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Juventus",
+      "XG": "2.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sampdoria",
+      "XG": "0.3",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Torino",
+      "XG": "2.0",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Juventus",
+      "XG": "1.8",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Lecce",
+      "XG": "1.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Salernitana",
+      "XG": "1.1",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Fiorentina",
+      "XG": "1.9",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Atalanta",
+      "XG": "0.8",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Spezia",
+      "XG": "1.0",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Milan",
+      "XG": "1.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Cremonese",
+      "XG": "1.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lazio",
+      "XG": "1.9",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Sassuolo",
+      "XG": "0.9",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hellas Verona",
+      "XG": "0.5",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Inter",
+      "XG": "2.4",
+      "Score": "6"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Monza",
+      "XG": "0.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Roma",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Udinese",
+      "XG": "0.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Napoli",
+      "XG": "0.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Empoli",
+      "XG": "1.0",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Bologna",
+      "XG": "2.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Milan",
+      "XG": "0.8",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Lazio",
+      "XG": "1.2",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Roma",
+      "XG": "0.9",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Inter",
+      "XG": "0.7",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Cremonese",
+      "XG": "0.9",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Spezia",
+      "XG": "1.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Atalanta",
+      "XG": "1.1",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Juventus",
+      "XG": "1.0",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Torino",
+      "XG": "0.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Monza",
+      "XG": "0.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Napoli",
+      "XG": "2.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Fiorentina",
+      "XG": "1.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lecce",
+      "XG": "0.8",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Hellas Verona",
+      "XG": "0.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Udinese",
+      "XG": "1.0",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Sampdoria",
+      "XG": "0.9",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Empoli",
+      "XG": "1.8",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Salernitana",
+      "XG": "0.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sassuolo",
+      "XG": "0.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Bologna",
+      "XG": "0.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lazio",
+      "XG": "1.7",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Lecce",
+      "XG": "1.4",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Salernitana",
+      "XG": "0.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Atalanta",
+      "XG": "1.2",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Spezia",
+      "XG": "1.8",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Milan",
+      "XG": "1.0",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Inter",
+      "XG": "1.4",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Sassuolo",
+      "XG": "2.3",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hellas Verona",
+      "XG": "0.5",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Torino",
+      "XG": "1.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Fiorentina",
+      "XG": "2.1",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Udinese",
+      "XG": "0.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Monza",
+      "XG": "1.3",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Napoli",
+      "XG": "1.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bologna",
+      "XG": "0.4",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Roma",
+      "XG": "1.2",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Juventus",
+      "XG": "1.6",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Cremonese",
+      "XG": "0.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sampdoria",
+      "XG": "1.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Empoli",
+      "XG": "1.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sassuolo",
+      "XG": "1.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Monza",
+      "XG": "1.6",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Cremonese",
+      "XG": "1.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Bologna",
+      "XG": "2.6",
+      "Score": "5"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Atalanta",
+      "XG": "1.4",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Hellas Verona",
+      "XG": "0.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Milan",
+      "XG": "3.8",
+      "Score": "5"
+    },
+    "Away Team": {
+      "Name": "Sampdoria",
+      "XG": "0.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lecce",
+      "XG": "0.3",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Spezia",
+      "XG": "0.8",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Torino",
+      "XG": "1.1",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Fiorentina",
+      "XG": "0.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Napoli",
+      "XG": "1.7",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Inter",
+      "XG": "0.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Udinese",
+      "XG": "0.5",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Lazio",
+      "XG": "2.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Roma",
+      "XG": "1.4",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Salernitana",
+      "XG": "1.1",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Empoli",
+      "XG": "2.7",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Juventus",
+      "XG": "1.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sampdoria",
+      "XG": "2.2",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Sassuolo",
+      "XG": "2.9",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Spezia",
+      "XG": "0.9",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Torino",
+      "XG": "1.0",
+      "Score": "4"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Salernitana",
+      "XG": "1.2",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Udinese",
+      "XG": "2.3",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Fiorentina",
+      "XG": "2.3",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Roma",
+      "XG": "1.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Inter",
+      "XG": "2.8",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Atalanta",
+      "XG": "1.0",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hellas Verona",
+      "XG": "1.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Empoli",
+      "XG": "1.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bologna",
+      "XG": "1.9",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Napoli",
+      "XG": "1.4",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Monza",
+      "XG": "1.1",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Lecce",
+      "XG": "1.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lazio",
+      "XG": "1.9",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Cremonese",
+      "XG": "0.6",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Juventus",
+      "XG": "0.9",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Milan",
+      "XG": "0.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sassuolo",
+      "XG": "1.1",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Fiorentina",
+      "XG": "1.6",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Torino",
+      "XG": "1.1",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Inter",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Cremonese",
+      "XG": "1.4",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Salernitana",
+      "XG": "0.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Empoli",
+      "XG": "0.2",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Lazio",
+      "XG": "1.6",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Napoli",
+      "XG": "2.0",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Sampdoria",
+      "XG": "0.6",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Atalanta",
+      "XG": "4.0",
+      "Score": "5"
+    },
+    "Away Team": {
+      "Name": "Monza",
+      "XG": "1.2",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Milan",
+      "XG": "2.4",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Hellas Verona",
+      "XG": "0.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Udinese",
+      "XG": "0.8",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Juventus",
+      "XG": "1.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lecce",
+      "XG": "1.4",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Bologna",
+      "XG": "1.1",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Roma",
+      "XG": "2.2",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Spezia",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  }
+]

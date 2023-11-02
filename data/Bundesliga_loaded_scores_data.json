@@ -1,0 +1,3674 @@
+[
+  {
+    "Home Team": {
+      "Name": "Eint Frankfurt",
+      "XG": "0.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Bayern Munich",
+      "XG": "4.0",
+      "Score": "6"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Wolfsburg",
+      "XG": "1.0",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Werder Bremen",
+      "XG": "0.8",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Augsburg",
+      "XG": "0.7",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Freiburg",
+      "XG": "1.3",
+      "Score": "4"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Union Berlin",
+      "XG": "1.0",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Hertha BSC",
+      "XG": "0.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "M'Gladbach",
+      "XG": "1.9",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Hoffenheim",
+      "XG": "0.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bochum",
+      "XG": "0.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Mainz 05",
+      "XG": "1.4",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Dortmund",
+      "XG": "1.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Leverkusen",
+      "XG": "1.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Stuttgart",
+      "XG": "0.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "RB Leipzig",
+      "XG": "1.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "K\u00f6ln",
+      "XG": "4.1",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Schalke 04",
+      "XG": "0.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Freiburg",
+      "XG": "1.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Dortmund",
+      "XG": "1.1",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hoffenheim",
+      "XG": "2.6",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Bochum",
+      "XG": "1.5",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Werder Bremen",
+      "XG": "0.5",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Stuttgart",
+      "XG": "1.4",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leverkusen",
+      "XG": "2.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Augsburg",
+      "XG": "0.4",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "RB Leipzig",
+      "XG": "1.0",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "K\u00f6ln",
+      "XG": "1.5",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hertha BSC",
+      "XG": "1.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Eint Frankfurt",
+      "XG": "1.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Schalke 04",
+      "XG": "1.4",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "M'Gladbach",
+      "XG": "1.3",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Mainz 05",
+      "XG": "0.7",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Union Berlin",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bayern Munich",
+      "XG": "2.0",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Wolfsburg",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "M'Gladbach",
+      "XG": "2.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Hertha BSC",
+      "XG": "1.0",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leverkusen",
+      "XG": "1.2",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Hoffenheim",
+      "XG": "1.5",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Augsburg",
+      "XG": "0.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Mainz 05",
+      "XG": "2.1",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Stuttgart",
+      "XG": "0.9",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Freiburg",
+      "XG": "0.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Dortmund",
+      "XG": "0.5",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Werder Bremen",
+      "XG": "1.3",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Wolfsburg",
+      "XG": "1.3",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Schalke 04",
+      "XG": "1.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Union Berlin",
+      "XG": "0.7",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "RB Leipzig",
+      "XG": "0.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Eint Frankfurt",
+      "XG": "0.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "K\u00f6ln",
+      "XG": "0.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bochum",
+      "XG": "0.7",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Bayern Munich",
+      "XG": "2.9",
+      "Score": "7"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Freiburg",
+      "XG": "3.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Bochum",
+      "XG": "1.2",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hoffenheim",
+      "XG": "1.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Augsburg",
+      "XG": "0.6",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Mainz 05",
+      "XG": "1.4",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Leverkusen",
+      "XG": "1.9",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "RB Leipzig",
+      "XG": "3.5",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Wolfsburg",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Schalke 04",
+      "XG": "1.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Union Berlin",
+      "XG": "1.1",
+      "Score": "6"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hertha BSC",
+      "XG": "0.5",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Dortmund",
+      "XG": "2.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bayern Munich",
+      "XG": "2.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "M'Gladbach",
+      "XG": "0.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "K\u00f6ln",
+      "XG": "0.6",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Stuttgart",
+      "XG": "2.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Werder Bremen",
+      "XG": "1.8",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Eint Frankfurt",
+      "XG": "1.8",
+      "Score": "4"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Dortmund",
+      "XG": "2.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Hoffenheim",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Stuttgart",
+      "XG": "0.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Schalke 04",
+      "XG": "2.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bochum",
+      "XG": "0.8",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Werder Bremen",
+      "XG": "2.0",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Union Berlin",
+      "XG": "0.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Bayern Munich",
+      "XG": "1.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leverkusen",
+      "XG": "1.8",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Freiburg",
+      "XG": "1.9",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Wolfsburg",
+      "XG": "1.0",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "K\u00f6ln",
+      "XG": "2.7",
+      "Score": "4"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Eint Frankfurt",
+      "XG": "3.1",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "RB Leipzig",
+      "XG": "0.2",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Augsburg",
+      "XG": "0.4",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Hertha BSC",
+      "XG": "2.1",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "M'Gladbach",
+      "XG": "1.2",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Mainz 05",
+      "XG": "0.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Werder Bremen",
+      "XG": "1.3",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Augsburg",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bayern Munich",
+      "XG": "2.2",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Stuttgart",
+      "XG": "1.2",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Eint Frankfurt",
+      "XG": "0.7",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Wolfsburg",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hertha BSC",
+      "XG": "1.9",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Leverkusen",
+      "XG": "1.3",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hoffenheim",
+      "XG": "4.2",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Mainz 05",
+      "XG": "0.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "RB Leipzig",
+      "XG": "2.0",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Dortmund",
+      "XG": "0.6",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Schalke 04",
+      "XG": "1.5",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Bochum",
+      "XG": "1.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "K\u00f6ln",
+      "XG": "0.6",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Union Berlin",
+      "XG": "1.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Freiburg",
+      "XG": "1.1",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "M'Gladbach",
+      "XG": "1.2",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Mainz 05",
+      "XG": "0.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Hertha BSC",
+      "XG": "0.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Dortmund",
+      "XG": "1.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Schalke 04",
+      "XG": "0.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leverkusen",
+      "XG": "1.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Werder Bremen",
+      "XG": "2.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Stuttgart",
+      "XG": "1.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Eint Frankfurt",
+      "XG": "1.0",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Augsburg",
+      "XG": "1.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Bayern Munich",
+      "XG": "1.6",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "M'Gladbach",
+      "XG": "2.7",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "RB Leipzig",
+      "XG": "0.9",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Union Berlin",
+      "XG": "1.4",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Wolfsburg",
+      "XG": "0.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bochum",
+      "XG": "0.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "K\u00f6ln",
+      "XG": "2.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hoffenheim",
+      "XG": "0.7",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Freiburg",
+      "XG": "1.0",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bayern Munich",
+      "XG": "1.9",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Leverkusen",
+      "XG": "0.8",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Freiburg",
+      "XG": "2.0",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Mainz 05",
+      "XG": "1.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Eint Frankfurt",
+      "XG": "0.8",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Union Berlin",
+      "XG": "1.0",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "K\u00f6ln",
+      "XG": "1.9",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Dortmund",
+      "XG": "2.5",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Wolfsburg",
+      "XG": "2.0",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Stuttgart",
+      "XG": "1.5",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "RB Leipzig",
+      "XG": "3.9",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Bochum",
+      "XG": "0.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Werder Bremen",
+      "XG": "1.9",
+      "Score": "5"
+    },
+    "Away Team": {
+      "Name": "M'Gladbach",
+      "XG": "2.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hertha BSC",
+      "XG": "0.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Hoffenheim",
+      "XG": "1.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Schalke 04",
+      "XG": "1.8",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Augsburg",
+      "XG": "1.4",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hoffenheim",
+      "XG": "1.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Werder Bremen",
+      "XG": "1.3",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bochum",
+      "XG": "0.6",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Eint Frankfurt",
+      "XG": "0.9",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Mainz 05",
+      "XG": "0.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "RB Leipzig",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Augsburg",
+      "XG": "2.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Wolfsburg",
+      "XG": "1.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leverkusen",
+      "XG": "1.5",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Schalke 04",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Dortmund",
+      "XG": "1.6",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Bayern Munich",
+      "XG": "0.6",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "M'Gladbach",
+      "XG": "3.0",
+      "Score": "5"
+    },
+    "Away Team": {
+      "Name": "K\u00f6ln",
+      "XG": "1.3",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hertha BSC",
+      "XG": "1.6",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Freiburg",
+      "XG": "1.0",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Stuttgart",
+      "XG": "1.0",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Union Berlin",
+      "XG": "0.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Schalke 04",
+      "XG": "0.7",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Hoffenheim",
+      "XG": "3.2",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Wolfsburg",
+      "XG": "1.8",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "M'Gladbach",
+      "XG": "0.8",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Eint Frankfurt",
+      "XG": "3.9",
+      "Score": "5"
+    },
+    "Away Team": {
+      "Name": "Leverkusen",
+      "XG": "0.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Werder Bremen",
+      "XG": "1.3",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Mainz 05",
+      "XG": "1.1",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Stuttgart",
+      "XG": "2.2",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Bochum",
+      "XG": "1.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "RB Leipzig",
+      "XG": "2.9",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Hertha BSC",
+      "XG": "2.3",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "K\u00f6ln",
+      "XG": "1.5",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Augsburg",
+      "XG": "0.4",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Union Berlin",
+      "XG": "1.9",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Dortmund",
+      "XG": "0.8",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bayern Munich",
+      "XG": "2.1",
+      "Score": "5"
+    },
+    "Away Team": {
+      "Name": "Freiburg",
+      "XG": "0.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Mainz 05",
+      "XG": "1.9",
+      "Score": "5"
+    },
+    "Away Team": {
+      "Name": "K\u00f6ln",
+      "XG": "0.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leverkusen",
+      "XG": "2.2",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Wolfsburg",
+      "XG": "1.2",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hoffenheim",
+      "XG": "0.8",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Bayern Munich",
+      "XG": "2.4",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Dortmund",
+      "XG": "2.6",
+      "Score": "5"
+    },
+    "Away Team": {
+      "Name": "Stuttgart",
+      "XG": "1.0",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Freiburg",
+      "XG": "2.9",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Werder Bremen",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Augsburg",
+      "XG": "1.6",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "RB Leipzig",
+      "XG": "2.4",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "M'Gladbach",
+      "XG": "1.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Eint Frankfurt",
+      "XG": "1.9",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bochum",
+      "XG": "1.1",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Union Berlin",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hertha BSC",
+      "XG": "0.8",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Schalke 04",
+      "XG": "0.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Werder Bremen",
+      "XG": "1.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Hertha BSC",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bayern Munich",
+      "XG": "3.1",
+      "Score": "6"
+    },
+    "Away Team": {
+      "Name": "Mainz 05",
+      "XG": "2.2",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Wolfsburg",
+      "XG": "2.0",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Bochum",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "RB Leipzig",
+      "XG": "1.2",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Leverkusen",
+      "XG": "0.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Stuttgart",
+      "XG": "2.6",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Augsburg",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Eint Frankfurt",
+      "XG": "1.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Dortmund",
+      "XG": "0.6",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Union Berlin",
+      "XG": "0.9",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "M'Gladbach",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Schalke 04",
+      "XG": "0.6",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Freiburg",
+      "XG": "2.3",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "K\u00f6ln",
+      "XG": "1.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Hoffenheim",
+      "XG": "0.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "M'Gladbach",
+      "XG": "0.9",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Stuttgart",
+      "XG": "1.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Dortmund",
+      "XG": "1.5",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Bochum",
+      "XG": "0.6",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Mainz 05",
+      "XG": "1.0",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Wolfsburg",
+      "XG": "0.6",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Augsburg",
+      "XG": "1.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Eint Frankfurt",
+      "XG": "1.2",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hertha BSC",
+      "XG": "1.2",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Bayern Munich",
+      "XG": "1.9",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hoffenheim",
+      "XG": "0.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "RB Leipzig",
+      "XG": "1.7",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Werder Bremen",
+      "XG": "1.0",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Schalke 04",
+      "XG": "1.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leverkusen",
+      "XG": "1.9",
+      "Score": "5"
+    },
+    "Away Team": {
+      "Name": "Union Berlin",
+      "XG": "0.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Freiburg",
+      "XG": "1.4",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "K\u00f6ln",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Wolfsburg",
+      "XG": "2.4",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Dortmund",
+      "XG": "1.6",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Stuttgart",
+      "XG": "2.0",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Hertha BSC",
+      "XG": "0.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bochum",
+      "XG": "2.0",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "M'Gladbach",
+      "XG": "0.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bayern Munich",
+      "XG": "4.4",
+      "Score": "6"
+    },
+    "Away Team": {
+      "Name": "Werder Bremen",
+      "XG": "1.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "K\u00f6ln",
+      "XG": "1.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Leverkusen",
+      "XG": "1.4",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Union Berlin",
+      "XG": "1.2",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Augsburg",
+      "XG": "0.6",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Schalke 04",
+      "XG": "1.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Mainz 05",
+      "XG": "0.8",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "RB Leipzig",
+      "XG": "2.9",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Freiburg",
+      "XG": "0.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Eint Frankfurt",
+      "XG": "2.8",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Hoffenheim",
+      "XG": "1.8",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "M'Gladbach",
+      "XG": "2.1",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Dortmund",
+      "XG": "3.0",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Augsburg",
+      "XG": "2.2",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Bochum",
+      "XG": "1.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hoffenheim",
+      "XG": "1.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Wolfsburg",
+      "XG": "0.7",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Werder Bremen",
+      "XG": "0.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "RB Leipzig",
+      "XG": "1.7",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hertha BSC",
+      "XG": "1.8",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "K\u00f6ln",
+      "XG": "1.8",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leverkusen",
+      "XG": "1.6",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Stuttgart",
+      "XG": "0.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Schalke 04",
+      "XG": "0.8",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Bayern Munich",
+      "XG": "1.9",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Mainz 05",
+      "XG": "1.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Eint Frankfurt",
+      "XG": "1.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Freiburg",
+      "XG": "2.3",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Union Berlin",
+      "XG": "1.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "RB Leipzig",
+      "XG": "0.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Bayern Munich",
+      "XG": "0.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Union Berlin",
+      "XG": "2.9",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Hoffenheim",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Stuttgart",
+      "XG": "1.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Mainz 05",
+      "XG": "1.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bochum",
+      "XG": "1.6",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Hertha BSC",
+      "XG": "0.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Wolfsburg",
+      "XG": "2.7",
+      "Score": "6"
+    },
+    "Away Team": {
+      "Name": "Freiburg",
+      "XG": "0.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Eint Frankfurt",
+      "XG": "1.2",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Schalke 04",
+      "XG": "1.8",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "K\u00f6ln",
+      "XG": "3.0",
+      "Score": "7"
+    },
+    "Away Team": {
+      "Name": "Werder Bremen",
+      "XG": "0.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Dortmund",
+      "XG": "2.9",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Augsburg",
+      "XG": "1.7",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "M'Gladbach",
+      "XG": "1.0",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Leverkusen",
+      "XG": "2.0",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Schalke 04",
+      "XG": "0.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "RB Leipzig",
+      "XG": "2.7",
+      "Score": "6"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hoffenheim",
+      "XG": "2.0",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Stuttgart",
+      "XG": "0.8",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hertha BSC",
+      "XG": "0.4",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Wolfsburg",
+      "XG": "3.1",
+      "Score": "5"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bayern Munich",
+      "XG": "1.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "K\u00f6ln",
+      "XG": "0.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Mainz 05",
+      "XG": "1.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Dortmund",
+      "XG": "1.5",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Werder Bremen",
+      "XG": "0.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Union Berlin",
+      "XG": "1.1",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Freiburg",
+      "XG": "1.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Eint Frankfurt",
+      "XG": "0.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Augsburg",
+      "XG": "0.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "M'Gladbach",
+      "XG": "0.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leverkusen",
+      "XG": "1.7",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Bochum",
+      "XG": "0.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "RB Leipzig",
+      "XG": "1.0",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Stuttgart",
+      "XG": "1.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hoffenheim",
+      "XG": "1.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "M'Gladbach",
+      "XG": "1.7",
+      "Score": "4"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Freiburg",
+      "XG": "1.7",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Augsburg",
+      "XG": "1.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Mainz 05",
+      "XG": "2.1",
+      "Score": "5"
+    },
+    "Away Team": {
+      "Name": "Bochum",
+      "XG": "1.5",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Werder Bremen",
+      "XG": "2.2",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Wolfsburg",
+      "XG": "0.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hertha BSC",
+      "XG": "0.5",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Union Berlin",
+      "XG": "1.0",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bayern Munich",
+      "XG": "1.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Eint Frankfurt",
+      "XG": "0.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Schalke 04",
+      "XG": "1.2",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "K\u00f6ln",
+      "XG": "0.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leverkusen",
+      "XG": "1.7",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Dortmund",
+      "XG": "0.9",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Augsburg",
+      "XG": "0.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Leverkusen",
+      "XG": "0.6",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Eint Frankfurt",
+      "XG": "2.2",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Hertha BSC",
+      "XG": "0.9",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bochum",
+      "XG": "2.7",
+      "Score": "5"
+    },
+    "Away Team": {
+      "Name": "Hoffenheim",
+      "XG": "0.9",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "K\u00f6ln",
+      "XG": "0.8",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "RB Leipzig",
+      "XG": "1.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Dortmund",
+      "XG": "1.9",
+      "Score": "5"
+    },
+    "Away Team": {
+      "Name": "Freiburg",
+      "XG": "0.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Union Berlin",
+      "XG": "1.1",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Mainz 05",
+      "XG": "1.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "M'Gladbach",
+      "XG": "1.1",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Schalke 04",
+      "XG": "1.0",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Stuttgart",
+      "XG": "1.3",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Werder Bremen",
+      "XG": "0.5",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Wolfsburg",
+      "XG": "2.2",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Bayern Munich",
+      "XG": "0.5",
+      "Score": "4"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Schalke 04",
+      "XG": "1.3",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Wolfsburg",
+      "XG": "1.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bayern Munich",
+      "XG": "3.7",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Bochum",
+      "XG": "0.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Mainz 05",
+      "XG": "2.4",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Augsburg",
+      "XG": "1.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Freiburg",
+      "XG": "2.0",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Stuttgart",
+      "XG": "1.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hoffenheim",
+      "XG": "0.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Leverkusen",
+      "XG": "1.4",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Werder Bremen",
+      "XG": "0.6",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Dortmund",
+      "XG": "2.5",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "RB Leipzig",
+      "XG": "0.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Union Berlin",
+      "XG": "1.7",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hertha BSC",
+      "XG": "3.0",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "M'Gladbach",
+      "XG": "0.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "K\u00f6ln",
+      "XG": "1.2",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Eint Frankfurt",
+      "XG": "0.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Augsburg",
+      "XG": "1.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Hoffenheim",
+      "XG": "0.6",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Wolfsburg",
+      "XG": "0.2",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "RB Leipzig",
+      "XG": "3.0",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "M'Gladbach",
+      "XG": "2.4",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Bayern Munich",
+      "XG": "1.1",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bochum",
+      "XG": "1.4",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Freiburg",
+      "XG": "2.6",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Stuttgart",
+      "XG": "1.5",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "K\u00f6ln",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Eint Frankfurt",
+      "XG": "2.1",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Werder Bremen",
+      "XG": "0.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Union Berlin",
+      "XG": "0.9",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Schalke 04",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Dortmund",
+      "XG": "2.5",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Hertha BSC",
+      "XG": "1.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leverkusen",
+      "XG": "2.2",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Mainz 05",
+      "XG": "1.6",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Mainz 05",
+      "XG": "1.8",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "M'Gladbach",
+      "XG": "1.2",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hertha BSC",
+      "XG": "0.6",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Augsburg",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hoffenheim",
+      "XG": "1.3",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Dortmund",
+      "XG": "2.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Werder Bremen",
+      "XG": "1.2",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Bochum",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "K\u00f6ln",
+      "XG": "1.2",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Wolfsburg",
+      "XG": "1.0",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "RB Leipzig",
+      "XG": "1.7",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Eint Frankfurt",
+      "XG": "0.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Schalke 04",
+      "XG": "1.5",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Stuttgart",
+      "XG": "1.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Freiburg",
+      "XG": "0.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Leverkusen",
+      "XG": "2.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bayern Munich",
+      "XG": "3.6",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Union Berlin",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Dortmund",
+      "XG": "1.2",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "RB Leipzig",
+      "XG": "2.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bochum",
+      "XG": "1.3",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Schalke 04",
+      "XG": "0.6",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "M'Gladbach",
+      "XG": "1.5",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Freiburg",
+      "XG": "0.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Mainz 05",
+      "XG": "1.1",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Hoffenheim",
+      "XG": "0.8",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Augsburg",
+      "XG": "0.6",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Werder Bremen",
+      "XG": "2.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Union Berlin",
+      "XG": "0.5",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "K\u00f6ln",
+      "XG": "0.9",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Stuttgart",
+      "XG": "0.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Bayern Munich",
+      "XG": "2.1",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leverkusen",
+      "XG": "1.6",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Hertha BSC",
+      "XG": "1.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Wolfsburg",
+      "XG": "1.9",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Eint Frankfurt",
+      "XG": "0.6",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "K\u00f6ln",
+      "XG": "0.7",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Bochum",
+      "XG": "1.4",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Eint Frankfurt",
+      "XG": "0.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Stuttgart",
+      "XG": "0.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bayern Munich",
+      "XG": "2.4",
+      "Score": "5"
+    },
+    "Away Team": {
+      "Name": "Augsburg",
+      "XG": "2.5",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hertha BSC",
+      "XG": "1.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Mainz 05",
+      "XG": "0.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "RB Leipzig",
+      "XG": "2.5",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "M'Gladbach",
+      "XG": "1.6",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Schalke 04",
+      "XG": "1.5",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Dortmund",
+      "XG": "2.0",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Freiburg",
+      "XG": "0.6",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Hoffenheim",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Werder Bremen",
+      "XG": "1.8",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Leverkusen",
+      "XG": "1.0",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Wolfsburg",
+      "XG": "1.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Union Berlin",
+      "XG": "1.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "M'Gladbach",
+      "XG": "3.4",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Werder Bremen",
+      "XG": "1.3",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Augsburg",
+      "XG": "0.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Schalke 04",
+      "XG": "1.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Stuttgart",
+      "XG": "0.5",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Wolfsburg",
+      "XG": "0.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hoffenheim",
+      "XG": "2.6",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Hertha BSC",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bochum",
+      "XG": "1.1",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "RB Leipzig",
+      "XG": "1.8",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Dortmund",
+      "XG": "3.3",
+      "Score": "6"
+    },
+    "Away Team": {
+      "Name": "K\u00f6ln",
+      "XG": "1.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Union Berlin",
+      "XG": "1.3",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Eint Frankfurt",
+      "XG": "2.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leverkusen",
+      "XG": "2.0",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Bayern Munich",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Mainz 05",
+      "XG": "1.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Freiburg",
+      "XG": "1.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Eint Frankfurt",
+      "XG": "3.1",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Bochum",
+      "XG": "1.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Union Berlin",
+      "XG": "1.9",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Stuttgart",
+      "XG": "2.2",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Wolfsburg",
+      "XG": "3.5",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Augsburg",
+      "XG": "0.6",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Schalke 04",
+      "XG": "1.1",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Leverkusen",
+      "XG": "2.7",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "RB Leipzig",
+      "XG": "0.8",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Mainz 05",
+      "XG": "2.9",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Freiburg",
+      "XG": "1.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Hertha BSC",
+      "XG": "1.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bayern Munich",
+      "XG": "2.4",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Dortmund",
+      "XG": "1.5",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "K\u00f6ln",
+      "XG": "1.0",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "M'Gladbach",
+      "XG": "1.0",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Werder Bremen",
+      "XG": "0.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Hoffenheim",
+      "XG": "1.1",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Dortmund",
+      "XG": "2.6",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Union Berlin",
+      "XG": "0.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Freiburg",
+      "XG": "1.0",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Bayern Munich",
+      "XG": "3.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Mainz 05",
+      "XG": "1.9",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Werder Bremen",
+      "XG": "0.9",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leverkusen",
+      "XG": "2.1",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Eint Frankfurt",
+      "XG": "0.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Augsburg",
+      "XG": "0.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "K\u00f6ln",
+      "XG": "1.7",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hertha BSC",
+      "XG": "0.5",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "RB Leipzig",
+      "XG": "2.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "M'Gladbach",
+      "XG": "1.6",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Wolfsburg",
+      "XG": "1.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bochum",
+      "XG": "2.4",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Stuttgart",
+      "XG": "2.2",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hoffenheim",
+      "XG": "2.2",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Schalke 04",
+      "XG": "0.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Schalke 04",
+      "XG": "2.2",
+      "Score": "5"
+    },
+    "Away Team": {
+      "Name": "Hertha BSC",
+      "XG": "1.6",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bayern Munich",
+      "XG": "1.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Hoffenheim",
+      "XG": "0.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "K\u00f6ln",
+      "XG": "1.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Mainz 05",
+      "XG": "0.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Stuttgart",
+      "XG": "1.4",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Dortmund",
+      "XG": "1.8",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "RB Leipzig",
+      "XG": "1.8",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Augsburg",
+      "XG": "0.7",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Eint Frankfurt",
+      "XG": "2.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "M'Gladbach",
+      "XG": "1.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Werder Bremen",
+      "XG": "1.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Freiburg",
+      "XG": "0.8",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Union Berlin",
+      "XG": "1.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Bochum",
+      "XG": "1.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Wolfsburg",
+      "XG": "0.9",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Leverkusen",
+      "XG": "1.2",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Augsburg",
+      "XG": "0.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Stuttgart",
+      "XG": "1.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Mainz 05",
+      "XG": "1.6",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Bayern Munich",
+      "XG": "1.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bochum",
+      "XG": "2.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Wolfsburg",
+      "XG": "3.6",
+      "Score": "5"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hertha BSC",
+      "XG": "1.6",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Werder Bremen",
+      "XG": "2.0",
+      "Score": "4"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hoffenheim",
+      "XG": "0.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "K\u00f6ln",
+      "XG": "1.7",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Dortmund",
+      "XG": "1.1",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Eint Frankfurt",
+      "XG": "0.6",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Freiburg",
+      "XG": "2.1",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Schalke 04",
+      "XG": "0.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leverkusen",
+      "XG": "1.1",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "RB Leipzig",
+      "XG": "1.9",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "M'Gladbach",
+      "XG": "0.7",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Union Berlin",
+      "XG": "1.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bochum",
+      "XG": "0.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Dortmund",
+      "XG": "2.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "K\u00f6ln",
+      "XG": "1.6",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Freiburg",
+      "XG": "1.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Stuttgart",
+      "XG": "2.3",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "M'Gladbach",
+      "XG": "1.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "RB Leipzig",
+      "XG": "1.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Hoffenheim",
+      "XG": "0.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Union Berlin",
+      "XG": "0.8",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Leverkusen",
+      "XG": "0.8",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Eint Frankfurt",
+      "XG": "0.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Augsburg",
+      "XG": "0.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Schalke 04",
+      "XG": "1.6",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Werder Bremen",
+      "XG": "1.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bayern Munich",
+      "XG": "2.7",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Hertha BSC",
+      "XG": "0.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Wolfsburg",
+      "XG": "1.9",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Mainz 05",
+      "XG": "1.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leverkusen",
+      "XG": "0.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "K\u00f6ln",
+      "XG": "0.8",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Mainz 05",
+      "XG": "1.3",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Schalke 04",
+      "XG": "2.9",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hoffenheim",
+      "XG": "2.2",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Eint Frankfurt",
+      "XG": "2.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hertha BSC",
+      "XG": "1.2",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Stuttgart",
+      "XG": "1.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Freiburg",
+      "XG": "0.4",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "RB Leipzig",
+      "XG": "1.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "M'Gladbach",
+      "XG": "1.9",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Bochum",
+      "XG": "1.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Augsburg",
+      "XG": "0.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Union Berlin",
+      "XG": "0.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Werder Bremen",
+      "XG": "0.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Bayern Munich",
+      "XG": "1.4",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Dortmund",
+      "XG": "4.2",
+      "Score": "6"
+    },
+    "Away Team": {
+      "Name": "Wolfsburg",
+      "XG": "1.2",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "K\u00f6ln",
+      "XG": "4.3",
+      "Score": "5"
+    },
+    "Away Team": {
+      "Name": "Hertha BSC",
+      "XG": "1.1",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Eint Frankfurt",
+      "XG": "2.2",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Mainz 05",
+      "XG": "1.0",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Wolfsburg",
+      "XG": "1.1",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Hoffenheim",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Union Berlin",
+      "XG": "1.5",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Freiburg",
+      "XG": "2.1",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bochum",
+      "XG": "1.2",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Augsburg",
+      "XG": "1.8",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bayern Munich",
+      "XG": "5.3",
+      "Score": "6"
+    },
+    "Away Team": {
+      "Name": "Schalke 04",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Dortmund",
+      "XG": "4.5",
+      "Score": "5"
+    },
+    "Away Team": {
+      "Name": "M'Gladbach",
+      "XG": "2.0",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Stuttgart",
+      "XG": "1.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Leverkusen",
+      "XG": "1.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "RB Leipzig",
+      "XG": "2.2",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Werder Bremen",
+      "XG": "1.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Freiburg",
+      "XG": "1.3",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Wolfsburg",
+      "XG": "0.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Schalke 04",
+      "XG": "1.0",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Eint Frankfurt",
+      "XG": "1.6",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Werder Bremen",
+      "XG": "1.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "K\u00f6ln",
+      "XG": "1.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hertha BSC",
+      "XG": "1.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Bochum",
+      "XG": "1.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Hoffenheim",
+      "XG": "2.4",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Union Berlin",
+      "XG": "2.0",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bayern Munich",
+      "XG": "1.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "RB Leipzig",
+      "XG": "2.8",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Mainz 05",
+      "XG": "1.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Stuttgart",
+      "XG": "1.8",
+      "Score": "4"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Augsburg",
+      "XG": "0.2",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Dortmund",
+      "XG": "3.1",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Leverkusen",
+      "XG": "1.6",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "M'Gladbach",
+      "XG": "1.7",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "RB Leipzig",
+      "XG": "2.6",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Schalke 04",
+      "XG": "1.2",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Bochum",
+      "XG": "1.3",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Leverkusen",
+      "XG": "0.8",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Union Berlin",
+      "XG": "0.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Werder Bremen",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Eint Frankfurt",
+      "XG": "2.1",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Freiburg",
+      "XG": "1.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Dortmund",
+      "XG": "4.0",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Mainz 05",
+      "XG": "1.8",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "M'Gladbach",
+      "XG": "3.0",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Augsburg",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Stuttgart",
+      "XG": "2.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Hoffenheim",
+      "XG": "0.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Wolfsburg",
+      "XG": "3.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Hertha BSC",
+      "XG": "2.1",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "K\u00f6ln",
+      "XG": "1.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Bayern Munich",
+      "XG": "1.3",
+      "Score": "2"
+    }
+  }
+]

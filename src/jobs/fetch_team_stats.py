@@ -44,6 +44,10 @@ class DataFetcher:
                 self.base_url = json.load(open('../const/metadata.json'))['LaLiga_team_stats_base_url']
                 self.for_stats_json = "../data/LaLiga_loaded_team_for_data.json"
                 self.against_stats_json = "../data/LaLiga_loaded_team_against_data.json"
+            case "PL_testing":
+                self.base_url = json.load(open('../const/metadata.json'))['PL_testing_stats_base_url']
+                self.for_stats_json = "../data/PL_testing_loaded_team_for_data.json"
+                self.against_stats_json = "../data/PL_testing_loaded_team_against_data.json"
 
         http_response = requests.get(self.base_url)
         if http_response.status_code != 200:
@@ -107,6 +111,9 @@ class DataFetcher:
             case "LaLiga":
                 self.base_url = json.load(open('../const/metadata.json'))['LaLiga_scores_base_url']
                 self.scores_json = "../data/LaLiga_loaded_scores_data.json"
+            case "PL_testing":
+                self.base_url = json.load(open('../const/metadata.json'))['PL_testing_scores_base_url']
+                self.scores_json = "../data/PL_testing_loaded_scores_data.json"
 
         http_response = requests.get(self.base_url)
         if http_response.status_code != 200:
@@ -115,7 +122,11 @@ class DataFetcher:
             print("Succesfully fetched scores HTML")
 
         doc = BeautifulSoup(http_response.text, "html.parser")
-        score_table = doc.find("table", {"id": f"sched_2022-2023_{table_ids[league]}_1"})
+        score_table = None
+        if league == "PL_testing":
+            score_table = doc.find("table", {"id": "sched_2021-2022_9_1"})
+        else:
+            score_table = doc.find("table", {"id": f"sched_2022-2023_{table_ids[league]}_1"})
         rows = score_table.find("tbody").find_all("tr")
         all_games = []
         for cur_row in rows:

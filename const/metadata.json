@@ -8,5 +8,8 @@
     "SerieA_scores_base_url":"https://fbref.com/en/comps/11/2022-2023/schedule/2022-2023-Serie-A-Scores-and-Fixtures",
     "Bundesliga_scores_base_url":"https://fbref.com/en/comps/20/2022-2023/schedule/2022-2023-Bundesliga-Scores-and-Fixtures",
     "Ligue1_scores_base_url":"https://fbref.com/en/comps/13/2022-2023/schedule/2022-2023-Ligue-1-Scores-and-Fixtures",
-    "LaLiga_scores_base_url":"https://fbref.com/en/comps/12/2022-2023/schedule/2022-2023-La-Liga-Scores-and-Fixtures"
+    "LaLiga_scores_base_url":"https://fbref.com/en/comps/12/2022-2023/schedule/2022-2023-La-Liga-Scores-and-Fixtures",
+    "PL_testing_stats_base_url": "https://fbref.com/en/comps/9/2021-2022/2021-2022-Premier-League-Stats",
+    "PL_testing_scores_base_url": "https://fbref.com/en/comps/9/2021-2022/schedule/2021-2022-Premier-League-Scores-and-Fixtures"
+
 }

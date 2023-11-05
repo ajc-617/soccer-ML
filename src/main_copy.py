@@ -1,7 +1,6 @@
 from jobs.fetch_team_stats import DataFetcher
 from jobs.create_csv import StoreCSV
 from model.ml_perceptron import Perceptron
-from model.ml_mlp import MultiLayerPerceptron
 import os
 from model.ml_dataset import SoccerDataset
 from model.ml_training_testing import TrainingTesting
@@ -25,8 +24,8 @@ def main_function():
     print(sample['stats'].shape)
     print(sample['scores'].shape)
 
-    dataloader = DataLoader(soccer_dataset, batch_size=4)
-    test_perceptron = MultiLayerPerceptron(108, 2)
+    dataloader = DataLoader(soccer_dataset, batch_size=32)
+    test_perceptron = Perceptron(108, 2)
     #sample_input = test_perceptron(next(iter(dataloader))['stats'])
     loss_fn = torch.nn.MSELoss()
     #dummy_losses = torch.ones((32,4))
@@ -56,7 +55,7 @@ def main_function():
                 num_correct += 1
             if (actual[0].item() < actual[1].item() and out[0].item() < out[1].item()):
                 num_correct += 1
-        #print(float(num_correct/num_non_draws))
+        print(float(num_correct/num_non_draws))
     for league in leagues:
         num_correct = 0
         num_draws = 0
@@ -71,8 +70,8 @@ def main_function():
             if round(out[0].item()) == round(out[1].item()):
                 num_correct += 1
 
-        print(float(num_correct/num_draws))
-        print(float(num_draws/len(testing_dataset)))
+        #print(float(num_correct/num_draws))
+        #print(num_draws)
         
         #print("predicted:")
         #print(out)

@@ -42,8 +42,11 @@ class StoreCSV:
             
             new_dict['Home Outcome Score'] = float(cur_score['Home Team']['Score'])
             new_dict['Away Outcome Score'] = float(cur_score['Away Team']['Score'])
-            new_dict['Home Outcome XG'] = float(cur_score['Home Team']['XG'])
-            new_dict['Away Outcome XG'] = float(cur_score['Away Team']['XG'])
+            #Initially I also included XG in the labels but I'm going to see if just using the scores in the labels increases accuracy of model
+            #Like sometimes the model gets the XGs pretty correct but the scores very wrong for some reason
+            #When betting, don't really care if the XG is pretty close to being correct if the score is wrong
+            #new_dict['Home Outcome XG'] = float(cur_score['Home Team']['XG'])
+            #new_dict['Away Outcome XG'] = float(cur_score['Away Team']['XG'])
 
             all_scores.append(new_dict)
 

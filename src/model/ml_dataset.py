@@ -22,7 +22,7 @@ class SoccerDataset(Dataset):
             idx = idx.tolist()
 
         rows = self.soccer_data_frame.iloc[idx, :]
-        split_idx = len(rows) - 4
+        split_idx = len(rows) - 2
         stats = rows[:split_idx]
         scores = rows[split_idx:]
         stats = np.array(stats)
@@ -31,6 +31,6 @@ class SoccerDataset(Dataset):
         sample = {'stats': stats, 'scores': scores}
 
         if self.transform:
-            sample = self.transform(sample)
+            sample = {'stats': self.transform(sample['stats']), 'scores': self.transform(sample['scores'])}
 
         return sample

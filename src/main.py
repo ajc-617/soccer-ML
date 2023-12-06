@@ -22,6 +22,7 @@ def main_function():
     transform_to_float = tensor_to_float32
     soccer_dataset = SoccerDataset('../csv/PL.csv', root_dir='/', transform=transform_to_float)
     sample = soccer_dataset[0]
+    #Test
     print(sample['stats'].shape)
     print(sample['scores'].shape)
 

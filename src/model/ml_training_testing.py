@@ -36,9 +36,9 @@ class TrainingTesting:
             if cur_epoch % 10 == 0:
                 epochs.append(cur_epoch)
                 losses.append(cur_epoch_loss)
-        _plot_accuracy_history(epochs, losses)
-        print(losses[0])
-        print(losses[-1])
+        #_plot_accuracy_history(epochs, losses)
+        # print(losses[0])
+        # print(losses[-1])
 
     def testing(self, testing_dataloader, loss_function, model):
         for index, cur_batch in enumerate(testing_dataloader):

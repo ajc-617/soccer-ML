@@ -22,22 +22,23 @@ class TrainingTesting:
             cur_epoch_loss = 0.0
             for index, cur_batch in enumerate(train_data_loader):
                 input_stats = cur_batch['stats']
-                output_scores = cur_batch['scores']
+                actual_results = cur_batch['results'].reshape(train_data_loader.batch_size).long()
 
                 optimizer.zero_grad()
 
                 outputs = model(input_stats)
-                loss = loss_function(outputs, output_scores)
-                #print(loss.item())
+                #Need to get outputs into a column tensor, can't have a row. len(outputs) is just the batch size
+                loss = loss_function(outputs, actual_results)
                 cur_epoch_loss += loss.item()
                 loss.backward()
 
                 optimizer.step()
             if cur_epoch % 10 == 0:
-                #print(cur_epoch_loss)
                 epochs.append(cur_epoch)
                 losses.append(cur_epoch_loss)
         _plot_accuracy_history(epochs, losses)
+        print(losses[0])
+        print(losses[-1])
 
     def testing(self, testing_dataloader, loss_function, model):
         for index, cur_batch in enumerate(testing_dataloader):

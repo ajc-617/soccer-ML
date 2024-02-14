@@ -9,7 +9,23 @@ class SoccerDataset(Dataset):
 
     def __init__(self, csv_file, root_dir, transform=None):
         
-        self.soccer_data_frame = pd.read_csv(csv_file)
+        temp_frame = pd.read_csv(csv_file)
+        results = []
+        for index, row in temp_frame.iterrows():
+            #Home win
+            if row['Home Outcome Score'] > row['Away Outcome Score']:
+                results.append(0)
+            #Draw
+            elif row['Home Outcome Score'] == row['Away Outcome Score']:
+                results.append(1)
+            #Away win
+            else:
+                results.append(2)
+        temp_frame = temp_frame.drop(columns=['Home Outcome Score', 'Away Outcome Score'])
+        temp_frame.insert(len(temp_frame.columns), "Result", results)
+
+        self.soccer_data_frame = temp_frame
+        
         #This for now isn't needed because inputs and their labels are in the same csv files
         self.root_dir = root_dir
         self.transform = transform
@@ -22,15 +38,15 @@ class SoccerDataset(Dataset):
             idx = idx.tolist()
 
         rows = self.soccer_data_frame.iloc[idx, :]
-        split_idx = len(rows) - 2
+        split_idx = len(rows) - 1
         stats = rows[:split_idx]
-        scores = rows[split_idx:]
+        results = rows[split_idx:]
         stats = np.array(stats)
-        scores = np.array(scores)
-
-        sample = {'stats': stats, 'scores': scores}
+        results = np.array(results)
+        
+        sample = {'stats': stats, 'results': np.asarray(results)}
 
         if self.transform:
-            sample = {'stats': self.transform(sample['stats']), 'scores': self.transform(sample['scores'])}
+            sample = {'stats': self.transform(sample['stats']), 'results': self.transform(sample['results'])}
 
         return sample

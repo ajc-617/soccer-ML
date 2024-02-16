@@ -1,11 +1,16 @@
 import json
 import csv
 import pandas as pd
+import os
 
 class StoreCSV:
     
     def __init__(self) -> None:
-        pass
+        self.leagues = ["PL", "SerieA", "Bundesliga", "Ligue1", "LaLiga", "PL_testing"]
+
+    def createAllCSV(self):
+        for league in self.leagues:
+            self.createCSV(league)
     
     def createCSV(self, league):
         base = '../data'
@@ -50,5 +55,6 @@ class StoreCSV:
 
             all_scores.append(new_dict)
 
-            pd.DataFrame(all_scores).to_csv(f'{league}.csv', index=False)  
+            pd.DataFrame(all_scores).to_csv(f'{league}.csv', index=False)
+            os.rename(f'{league}.csv', f'../csv/{league}.csv')  
         

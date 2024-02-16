@@ -55,7 +55,7 @@
     },
     "Away Team": {
       "Name": "Real Sociedad",
-      "XG": "1.5",
+      "XG": "1.7",
       "Score": "1"
     }
   },
@@ -398,12 +398,12 @@
   {
     "Home Team": {
       "Name": "Real Sociedad",
-      "XG": "1.5",
+      "XG": "1.4",
       "Score": "1"
     },
     "Away Team": {
       "Name": "Atl\u00e9tico Madrid",
-      "XG": "1.4",
+      "XG": "1.1",
       "Score": "1"
     }
   },
@@ -422,7 +422,7 @@
   {
     "Home Team": {
       "Name": "Osasuna",
-      "XG": "2.0",
+      "XG": "2.4",
       "Score": "2"
     },
     "Away Team": {
@@ -482,12 +482,12 @@
   {
     "Home Team": {
       "Name": "Girona",
-      "XG": "1.7",
+      "XG": "1.9",
       "Score": "2"
     },
     "Away Team": {
       "Name": "Valladolid",
-      "XG": "0.6",
+      "XG": "0.5",
       "Score": "1"
     }
   },
@@ -578,7 +578,7 @@
   {
     "Home Team": {
       "Name": "Betis",
-      "XG": "1.9",
+      "XG": "1.4",
       "Score": "1"
     },
     "Away Team": {
@@ -2462,12 +2462,12 @@
   {
     "Home Team": {
       "Name": "Celta Vigo",
-      "XG": "1.1",
+      "XG": "0.9",
       "Score": "0"
     },
     "Away Team": {
       "Name": "Atl\u00e9tico Madrid",
-      "XG": "1.0",
+      "XG": "0.9",
       "Score": "1"
     }
   },

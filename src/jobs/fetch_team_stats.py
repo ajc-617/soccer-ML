@@ -9,19 +9,17 @@ class DataFetcher:
         self.for_stats_json = ""
         self.against_stats_json = ""
         self.scores_json = ""
-        self.five_leagues = ["PL", "SerieA", "Bundesliga", "Ligue1", "LaLiga"]
+        self.leagues = ["PL", "SerieA", "Bundesliga", "Ligue1", "LaLiga", "PL_testing"]
 
-    #def mainDataFetch(self):
-        #for league in self.five_leagues:
-        #    self.fetchAndWriteLeagueTeamStats(league)
-    #    self.fetchAndWriteLeagueScores("PL")
+    def fetchAndWriteAll(self):
+        for league in self.leagues:
+            self.fetchAndWriteLeagueTeamStats(league)
+            self.fetchAndWriteLeagueScores(league)
 
     def fetchAndWriteLeagueTeamStats(self, league):
         team_stats_for_dictionary = {}
         team_stats_against_dictionary = {}
 
-        #Div id for team stats: div_stats_squads_standard_for
-        #Div id for opponent stats: div_stats_squads_standard_against
 
         self.base_url = json.load(open('../const/metadata.json'))[f'{league}_team_stats_base_url']
         self.for_stats_json = f"../data/{league}_loaded_team_for_data.json"
@@ -33,6 +31,9 @@ class DataFetcher:
         else:
             print("Succesfully fetched team stats HTML")
 
+        #Div id for team stats: div_stats_squads_standard_for
+        #Div id for opponent stats: div_stats_squads_standard_against
+            
         doc = BeautifulSoup(http_response.text, "html.parser")
         team_for_stats = doc.find("div", {"id": "div_stats_squads_standard_for"})
         team_against_stats = doc.find("div", {"id": "div_stats_squads_standard_against"})

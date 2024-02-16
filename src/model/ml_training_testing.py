@@ -22,7 +22,7 @@ class TrainingTesting:
             cur_epoch_loss = 0.0
             for index, cur_batch in enumerate(train_data_loader):
                 input_stats = cur_batch['stats']
-                actual_results = cur_batch['results'].reshape(train_data_loader.batch_size).long()
+                actual_results = cur_batch['results'].reshape(len(cur_batch['results'])).long()
 
                 optimizer.zero_grad()
 

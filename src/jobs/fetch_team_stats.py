@@ -23,31 +23,9 @@ class DataFetcher:
         #Div id for team stats: div_stats_squads_standard_for
         #Div id for opponent stats: div_stats_squads_standard_against
 
-        match league:
-            case "PL":
-                self.base_url = json.load(open('../const/metadata.json'))['PL_team_stats_base_url']
-                self.for_stats_json = "../data/PL_loaded_team_for_data.json"
-                self.against_stats_json = "../data/PL_loaded_team_against_data.json"
-            case "SerieA":
-                self.base_url = json.load(open('../const/metadata.json'))['SerieA_team_stats_base_url']
-                self.for_stats_json = "../data/SerieA_loaded_team_for_data.json"
-                self.against_stats_json = "../data/SerieA_loaded_team_against_data.json"
-            case "Bundesliga":
-                self.base_url = json.load(open('../const/metadata.json'))['Bundesliga_team_stats_base_url']
-                self.for_stats_json = "../data/Bundesliga_loaded_team_for_data.json"
-                self.against_stats_json = "../data/Bundesliga_loaded_team_against_data.json"    
-            case "Ligue1":
-                self.base_url = json.load(open('../const/metadata.json'))['Ligue1_team_stats_base_url']
-                self.for_stats_json = "../data/Ligue1_loaded_team_for_data.json"
-                self.against_stats_json = "../data/Ligue1_loaded_team_against_data.json"
-            case "LaLiga":
-                self.base_url = json.load(open('../const/metadata.json'))['LaLiga_team_stats_base_url']
-                self.for_stats_json = "../data/LaLiga_loaded_team_for_data.json"
-                self.against_stats_json = "../data/LaLiga_loaded_team_against_data.json"
-            case "PL_testing":
-                self.base_url = json.load(open('../const/metadata.json'))['PL_testing_stats_base_url']
-                self.for_stats_json = "../data/PL_testing_loaded_team_for_data.json"
-                self.against_stats_json = "../data/PL_testing_loaded_team_against_data.json"
+        self.base_url = json.load(open('../const/metadata.json'))[f'{league}_team_stats_base_url']
+        self.for_stats_json = f"../data/{league}_loaded_team_for_data.json"
+        self.against_stats_json = f"../data/{league}_loaded_team_against_data.json"
 
         http_response = requests.get(self.base_url)
         if http_response.status_code != 200:
@@ -74,7 +52,7 @@ class DataFetcher:
         #Loop through first time to get the team names to store in the dictionary for future use
         data_for_rows = team_for_stats.find("tbody").find_all("tr")
         data_against_rows = team_against_stats.find("tbody").find_all("tr")
-        #iterate throw for and against rows at the same time
+        #iterate through for and against rows at the same time
         for cur_for_row, cur_against_row in zip(data_for_rows, data_against_rows):
             for index, (cur_for_row_entry, cur_against_row_entry) in enumerate(zip(cur_for_row, cur_against_row)):
                 if index == 0: #This will just be a th tag after this one the rest of the row is td entries
@@ -94,26 +72,8 @@ class DataFetcher:
     def fetchAndWriteLeagueScores(self,league):
         table_ids = {'PL': '9', 'SerieA': '11', 'Bundesliga': '20', 'Ligue1': '13', 'LaLiga': '12'}
 
-
-        match league:
-            case "PL":
-                self.base_url = json.load(open('../const/metadata.json'))['PL_scores_base_url']
-                self.scores_json = "../data/PL_loaded_scores_data.json"
-            case "SerieA":
-                self.base_url = json.load(open('../const/metadata.json'))['SerieA_scores_base_url']
-                self.scores_json = "../data/SerieA_loaded_scores_data.json"
-            case "Bundesliga":
-                self.base_url = json.load(open('../const/metadata.json'))['Bundesliga_scores_base_url']  
-                self.scores_json = "../data/Bundesliga_loaded_scores_data.json"
-            case "Ligue1":
-                self.base_url = json.load(open('../const/metadata.json'))['Ligue1_scores_base_url']
-                self.scores_json = "../data/Ligue1_loaded_scores_data.json"
-            case "LaLiga":
-                self.base_url = json.load(open('../const/metadata.json'))['LaLiga_scores_base_url']
-                self.scores_json = "../data/LaLiga_loaded_scores_data.json"
-            case "PL_testing":
-                self.base_url = json.load(open('../const/metadata.json'))['PL_testing_scores_base_url']
-                self.scores_json = "../data/PL_testing_loaded_scores_data.json"
+        self.base_url = json.load(open('../const/metadata.json'))[f'{league}_scores_base_url']
+        self.scores_json = f"../data/{league}_loaded_scores_data.json"
 
         http_response = requests.get(self.base_url)
         if http_response.status_code != 200:

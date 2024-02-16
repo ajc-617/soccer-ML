@@ -1,0 +1,4562 @@
+[
+  {
+    "Home Team": {
+      "Name": "Lyon",
+      "XG": "1.3",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Ajaccio",
+      "XG": "1.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Strasbourg",
+      "XG": "0.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Monaco",
+      "XG": "2.8",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Clermont Foot",
+      "XG": "0.3",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Paris S-G",
+      "XG": "3.5",
+      "Score": "5"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Toulouse",
+      "XG": "0.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Nice",
+      "XG": "1.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lens",
+      "XG": "2.5",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Brest",
+      "XG": "1.2",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Angers",
+      "XG": "1.5",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Nantes",
+      "XG": "1.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lille",
+      "XG": "2.4",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Auxerre",
+      "XG": "0.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Montpellier",
+      "XG": "1.7",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Troyes",
+      "XG": "2.0",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Rennes",
+      "XG": "1.8",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Lorient",
+      "XG": "1.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Marseille",
+      "XG": "2.1",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Reims",
+      "XG": "0.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nantes",
+      "XG": "1.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Lille",
+      "XG": "2.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Monaco",
+      "XG": "1.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Rennes",
+      "XG": "2.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Paris S-G",
+      "XG": "3.2",
+      "Score": "5"
+    },
+    "Away Team": {
+      "Name": "Montpellier",
+      "XG": "0.9",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Ajaccio",
+      "XG": "0.5",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Lens",
+      "XG": "1.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Reims",
+      "XG": "2.7",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Clermont Foot",
+      "XG": "1.9",
+      "Score": "4"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Auxerre",
+      "XG": "0.8",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Angers",
+      "XG": "1.4",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Troyes",
+      "XG": "1.0",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Toulouse",
+      "XG": "1.5",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nice",
+      "XG": "1.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Strasbourg",
+      "XG": "0.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brest",
+      "XG": "2.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Marseille",
+      "XG": "0.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lyon",
+      "XG": "2.6",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Troyes",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Monaco",
+      "XG": "1.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Lens",
+      "XG": "2.5",
+      "Score": "4"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Marseille",
+      "XG": "1.1",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Nantes",
+      "XG": "2.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Strasbourg",
+      "XG": "1.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Reims",
+      "XG": "2.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Montpellier",
+      "XG": "1.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Auxerre",
+      "XG": "1.3",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Clermont Foot",
+      "XG": "0.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Nice",
+      "XG": "1.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Angers",
+      "XG": "0.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Brest",
+      "XG": "1.8",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Toulouse",
+      "XG": "1.8",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Lorient",
+      "XG": "2.5",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Rennes",
+      "XG": "1.2",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Ajaccio",
+      "XG": "1.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lille",
+      "XG": "1.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Paris S-G",
+      "XG": "3.4",
+      "Score": "7"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Ajaccio",
+      "XG": "1.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Lille",
+      "XG": "1.7",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Auxerre",
+      "XG": "0.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Strasbourg",
+      "XG": "1.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lens",
+      "XG": "1.3",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Rennes",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nantes",
+      "XG": "1.5",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Toulouse",
+      "XG": "0.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lorient",
+      "XG": "2.9",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Clermont Foot",
+      "XG": "0.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brest",
+      "XG": "0.3",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Montpellier",
+      "XG": "2.5",
+      "Score": "7"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nice",
+      "XG": "1.0",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Marseille",
+      "XG": "1.4",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Troyes",
+      "XG": "1.9",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Angers",
+      "XG": "0.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Reims",
+      "XG": "0.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Lyon",
+      "XG": "1.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Paris S-G",
+      "XG": "2.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Monaco",
+      "XG": "1.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Strasbourg",
+      "XG": "0.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Nantes",
+      "XG": "1.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Monaco",
+      "XG": "1.2",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Troyes",
+      "XG": "2.2",
+      "Score": "4"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lyon",
+      "XG": "2.6",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Auxerre",
+      "XG": "0.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Angers",
+      "XG": "1.7",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Reims",
+      "XG": "2.3",
+      "Score": "4"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Montpellier",
+      "XG": "1.7",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Ajaccio",
+      "XG": "1.2",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Toulouse",
+      "XG": "0.8",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Paris S-G",
+      "XG": "2.8",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lille",
+      "XG": "0.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Nice",
+      "XG": "1.6",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Rennes",
+      "XG": "1.5",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Brest",
+      "XG": "0.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Marseille",
+      "XG": "2.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Clermont Foot",
+      "XG": "0.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lens",
+      "XG": "3.0",
+      "Score": "5"
+    },
+    "Away Team": {
+      "Name": "Lorient",
+      "XG": "1.1",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Auxerre",
+      "XG": "0.6",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Marseille",
+      "XG": "1.6",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lyon",
+      "XG": "1.4",
+      "Score": "5"
+    },
+    "Away Team": {
+      "Name": "Angers",
+      "XG": "1.0",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nantes",
+      "XG": "0.4",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Paris S-G",
+      "XG": "2.7",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Montpellier",
+      "XG": "0.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Lille",
+      "XG": "1.6",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Clermont Foot",
+      "XG": "1.3",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Toulouse",
+      "XG": "1.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Reims",
+      "XG": "2.1",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Lens",
+      "XG": "1.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brest",
+      "XG": "0.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Strasbourg",
+      "XG": "2.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Ajaccio",
+      "XG": "0.5",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Lorient",
+      "XG": "0.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Troyes",
+      "XG": "0.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Rennes",
+      "XG": "2.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nice",
+      "XG": "0.7",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Monaco",
+      "XG": "1.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lorient",
+      "XG": "1.0",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Lyon",
+      "XG": "2.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lens",
+      "XG": "1.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Troyes",
+      "XG": "0.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Paris S-G",
+      "XG": "1.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Brest",
+      "XG": "1.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Marseille",
+      "XG": "2.2",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Lille",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Strasbourg",
+      "XG": "1.2",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Clermont Foot",
+      "XG": "0.8",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Angers",
+      "XG": "2.5",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Montpellier",
+      "XG": "0.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lorient",
+      "XG": "1.3",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Nantes",
+      "XG": "0.5",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Toulouse",
+      "XG": "1.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Reims",
+      "XG": "1.0",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Ajaccio",
+      "XG": "1.2",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Nice",
+      "XG": "1.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Rennes",
+      "XG": "1.6",
+      "Score": "5"
+    },
+    "Away Team": {
+      "Name": "Auxerre",
+      "XG": "0.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Monaco",
+      "XG": "1.7",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Lyon",
+      "XG": "2.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Auxerre",
+      "XG": "2.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Lorient",
+      "XG": "2.5",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Montpellier",
+      "XG": "1.8",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Strasbourg",
+      "XG": "0.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lille",
+      "XG": "1.0",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Toulouse",
+      "XG": "0.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Reims",
+      "XG": "0.6",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Monaco",
+      "XG": "1.7",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brest",
+      "XG": "0.5",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Ajaccio",
+      "XG": "0.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Clermont Foot",
+      "XG": "1.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Troyes",
+      "XG": "1.5",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nice",
+      "XG": "1.3",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Angers",
+      "XG": "1.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Marseille",
+      "XG": "1.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Rennes",
+      "XG": "1.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nantes",
+      "XG": "0.9",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Lens",
+      "XG": "0.9",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lyon",
+      "XG": "1.0",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Paris S-G",
+      "XG": "1.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Angers",
+      "XG": "1.2",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Marseille",
+      "XG": "1.6",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Strasbourg",
+      "XG": "1.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Rennes",
+      "XG": "3.2",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Paris S-G",
+      "XG": "1.0",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Nice",
+      "XG": "0.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lorient",
+      "XG": "0.6",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Lille",
+      "XG": "2.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Auxerre",
+      "XG": "1.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Brest",
+      "XG": "0.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Troyes",
+      "XG": "1.6",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Reims",
+      "XG": "1.0",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Toulouse",
+      "XG": "1.7",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Montpellier",
+      "XG": "1.2",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Ajaccio",
+      "XG": "1.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Clermont Foot",
+      "XG": "1.0",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Monaco",
+      "XG": "2.1",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Nantes",
+      "XG": "0.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lens",
+      "XG": "2.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Lyon",
+      "XG": "0.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lyon",
+      "XG": "1.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Toulouse",
+      "XG": "0.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Marseille",
+      "XG": "1.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Ajaccio",
+      "XG": "0.2",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Reims",
+      "XG": "1.8",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Paris S-G",
+      "XG": "1.2",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Montpellier",
+      "XG": "0.7",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Monaco",
+      "XG": "1.2",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brest",
+      "XG": "0.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Lorient",
+      "XG": "1.1",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Angers",
+      "XG": "2.1",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Strasbourg",
+      "XG": "2.0",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Clermont Foot",
+      "XG": "1.1",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Auxerre",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nice",
+      "XG": "2.6",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Troyes",
+      "XG": "1.5",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Rennes",
+      "XG": "1.8",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Nantes",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lille",
+      "XG": "2.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Lens",
+      "XG": "1.2",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Strasbourg",
+      "XG": "0.6",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Lille",
+      "XG": "2.3",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lorient",
+      "XG": "0.8",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Reims",
+      "XG": "0.6",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lens",
+      "XG": "1.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Montpellier",
+      "XG": "0.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Toulouse",
+      "XG": "2.4",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Angers",
+      "XG": "1.2",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Rennes",
+      "XG": "1.6",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Lyon",
+      "XG": "1.1",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Troyes",
+      "XG": "0.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Ajaccio",
+      "XG": "2.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Auxerre",
+      "XG": "0.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Nice",
+      "XG": "1.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nantes",
+      "XG": "2.9",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Brest",
+      "XG": "0.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Monaco",
+      "XG": "1.1",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Clermont Foot",
+      "XG": "1.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Paris S-G",
+      "XG": "2.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Marseille",
+      "XG": "1.2",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Ajaccio",
+      "XG": "0.3",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Paris S-G",
+      "XG": "2.5",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Montpellier",
+      "XG": "1.1",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Lyon",
+      "XG": "2.7",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Marseille",
+      "XG": "1.8",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Lens",
+      "XG": "0.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Angers",
+      "XG": "1.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Rennes",
+      "XG": "2.2",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Troyes",
+      "XG": "0.8",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Lorient",
+      "XG": "1.4",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Clermont Foot",
+      "XG": "1.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Brest",
+      "XG": "3.0",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Reims",
+      "XG": "2.4",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Auxerre",
+      "XG": "0.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Toulouse",
+      "XG": "2.2",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Strasbourg",
+      "XG": "1.8",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nice",
+      "XG": "1.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Nantes",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lille",
+      "XG": "2.5",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Monaco",
+      "XG": "1.1",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lens",
+      "XG": "2.4",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Toulouse",
+      "XG": "0.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Paris S-G",
+      "XG": "2.9",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Troyes",
+      "XG": "2.0",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Strasbourg",
+      "XG": "1.1",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Marseille",
+      "XG": "2.0",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Auxerre",
+      "XG": "1.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Ajaccio",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Rennes",
+      "XG": "1.2",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Montpellier",
+      "XG": "0.9",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Monaco",
+      "XG": "1.8",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Angers",
+      "XG": "0.6",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brest",
+      "XG": "1.5",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Reims",
+      "XG": "1.0",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nantes",
+      "XG": "1.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Clermont Foot",
+      "XG": "0.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lorient",
+      "XG": "1.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Nice",
+      "XG": "1.8",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lyon",
+      "XG": "1.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Lille",
+      "XG": "1.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Troyes",
+      "XG": "1.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Auxerre",
+      "XG": "1.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Ajaccio",
+      "XG": "3.7",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Strasbourg",
+      "XG": "0.9",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Angers",
+      "XG": "0.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Lens",
+      "XG": "1.8",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lorient",
+      "XG": "0.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Paris S-G",
+      "XG": "1.6",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Toulouse",
+      "XG": "0.7",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Monaco",
+      "XG": "2.4",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Reims",
+      "XG": "2.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Nantes",
+      "XG": "0.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nice",
+      "XG": "1.1",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Brest",
+      "XG": "1.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Clermont Foot",
+      "XG": "3.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Montpellier",
+      "XG": "1.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lille",
+      "XG": "2.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Rennes",
+      "XG": "0.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Marseille",
+      "XG": "0.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Lyon",
+      "XG": "0.9",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lyon",
+      "XG": "1.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Nice",
+      "XG": "1.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lens",
+      "XG": "1.5",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Clermont Foot",
+      "XG": "0.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Rennes",
+      "XG": "2.1",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Toulouse",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Paris S-G",
+      "XG": "2.0",
+      "Score": "5"
+    },
+    "Away Team": {
+      "Name": "Auxerre",
+      "XG": "0.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lille",
+      "XG": "0.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Angers",
+      "XG": "0.6",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Montpellier",
+      "XG": "1.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Reims",
+      "XG": "2.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brest",
+      "XG": "2.4",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Troyes",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nantes",
+      "XG": "1.1",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Ajaccio",
+      "XG": "2.5",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Strasbourg",
+      "XG": "2.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Lorient",
+      "XG": "0.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Monaco",
+      "XG": "2.0",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Marseille",
+      "XG": "1.9",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Ajaccio",
+      "XG": "1.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Angers",
+      "XG": "1.9",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Troyes",
+      "XG": "0.2",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Nantes",
+      "XG": "1.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Auxerre",
+      "XG": "1.3",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Monaco",
+      "XG": "1.3",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Clermont Foot",
+      "XG": "0.7",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Lille",
+      "XG": "1.6",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brest",
+      "XG": "1.3",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Lyon",
+      "XG": "3.1",
+      "Score": "4"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Paris S-G",
+      "XG": "2.1",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Strasbourg",
+      "XG": "1.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lorient",
+      "XG": "1.0",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Montpellier",
+      "XG": "1.7",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Reims",
+      "XG": "1.4",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Rennes",
+      "XG": "1.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Marseille",
+      "XG": "2.6",
+      "Score": "6"
+    },
+    "Away Team": {
+      "Name": "Toulouse",
+      "XG": "1.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nice",
+      "XG": "1.0",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Lens",
+      "XG": "1.0",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Toulouse",
+      "XG": "1.1",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Ajaccio",
+      "XG": "0.0",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Monaco",
+      "XG": "1.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Brest",
+      "XG": "0.8",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Angers",
+      "XG": "2.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Lorient",
+      "XG": "0.6",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nantes",
+      "XG": "1.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Auxerre",
+      "XG": "0.8",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lyon",
+      "XG": "0.7",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Clermont Foot",
+      "XG": "1.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lens",
+      "XG": "1.8",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Paris S-G",
+      "XG": "1.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Strasbourg",
+      "XG": "1.1",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Troyes",
+      "XG": "1.2",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lille",
+      "XG": "2.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Reims",
+      "XG": "0.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Montpellier",
+      "XG": "1.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Marseille",
+      "XG": "1.4",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Rennes",
+      "XG": "1.9",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Nice",
+      "XG": "0.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Clermont Foot",
+      "XG": "1.7",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Rennes",
+      "XG": "1.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Ajaccio",
+      "XG": "1.0",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Reims",
+      "XG": "0.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Auxerre",
+      "XG": "1.1",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Toulouse",
+      "XG": "2.2",
+      "Score": "5"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brest",
+      "XG": "0.3",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Lille",
+      "XG": "0.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nantes",
+      "XG": "1.1",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Lyon",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Troyes",
+      "XG": "0.2",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Marseille",
+      "XG": "1.9",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nice",
+      "XG": "2.5",
+      "Score": "6"
+    },
+    "Away Team": {
+      "Name": "Montpellier",
+      "XG": "0.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Paris S-G",
+      "XG": "1.3",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Angers",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lorient",
+      "XG": "1.3",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Monaco",
+      "XG": "1.8",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Strasbourg",
+      "XG": "0.8",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Lens",
+      "XG": "1.9",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lens",
+      "XG": "2.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Auxerre",
+      "XG": "0.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Marseille",
+      "XG": "2.2",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Lorient",
+      "XG": "0.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lyon",
+      "XG": "2.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Strasbourg",
+      "XG": "1.1",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lille",
+      "XG": "3.8",
+      "Score": "5"
+    },
+    "Away Team": {
+      "Name": "Troyes",
+      "XG": "0.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Toulouse",
+      "XG": "1.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Brest",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Montpellier",
+      "XG": "0.9",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Nantes",
+      "XG": "0.6",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Reims",
+      "XG": "0.9",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Nice",
+      "XG": "0.8",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Angers",
+      "XG": "0.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Clermont Foot",
+      "XG": "1.7",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Monaco",
+      "XG": "3.7",
+      "Score": "7"
+    },
+    "Away Team": {
+      "Name": "Ajaccio",
+      "XG": "0.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Rennes",
+      "XG": "0.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Paris S-G",
+      "XG": "1.0",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lorient",
+      "XG": "0.9",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Rennes",
+      "XG": "1.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Troyes",
+      "XG": "1.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Lens",
+      "XG": "2.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Marseille",
+      "XG": "1.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Monaco",
+      "XG": "1.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nice",
+      "XG": "1.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Lille",
+      "XG": "1.6",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Clermont Foot",
+      "XG": "0.7",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Nantes",
+      "XG": "0.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brest",
+      "XG": "1.6",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Angers",
+      "XG": "0.8",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Auxerre",
+      "XG": "1.8",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Montpellier",
+      "XG": "0.7",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Strasbourg",
+      "XG": "1.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Toulouse",
+      "XG": "1.2",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Ajaccio",
+      "XG": "1.7",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Lyon",
+      "XG": "1.9",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Paris S-G",
+      "XG": "1.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Reims",
+      "XG": "2.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lille",
+      "XG": "1.3",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Clermont Foot",
+      "XG": "1.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nantes",
+      "XG": "1.2",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Marseille",
+      "XG": "1.7",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Toulouse",
+      "XG": "2.2",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Troyes",
+      "XG": "1.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Angers",
+      "XG": "0.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Ajaccio",
+      "XG": "1.4",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Reims",
+      "XG": "3.8",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Lorient",
+      "XG": "0.6",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lyon",
+      "XG": "2.5",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Brest",
+      "XG": "0.6",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Monaco",
+      "XG": "1.2",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Auxerre",
+      "XG": "1.4",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Montpellier",
+      "XG": "0.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Paris S-G",
+      "XG": "4.4",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lens",
+      "XG": "0.6",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Nice",
+      "XG": "2.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Rennes",
+      "XG": "1.1",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Strasbourg",
+      "XG": "0.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Paris S-G",
+      "XG": "1.9",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Toulouse",
+      "XG": "0.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Troyes",
+      "XG": "1.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Lyon",
+      "XG": "0.8",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Rennes",
+      "XG": "1.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Lille",
+      "XG": "2.2",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Clermont Foot",
+      "XG": "0.4",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Monaco",
+      "XG": "1.4",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Strasbourg",
+      "XG": "0.9",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Montpellier",
+      "XG": "0.9",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Ajaccio",
+      "XG": "0.3",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Nantes",
+      "XG": "1.2",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Auxerre",
+      "XG": "1.2",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Reims",
+      "XG": "0.6",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lorient",
+      "XG": "1.0",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Angers",
+      "XG": "0.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brest",
+      "XG": "2.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Lens",
+      "XG": "2.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Marseille",
+      "XG": "2.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Nice",
+      "XG": "1.4",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nice",
+      "XG": "0.6",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Ajaccio",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Monaco",
+      "XG": "2.9",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Paris S-G",
+      "XG": "0.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Clermont Foot",
+      "XG": "0.8",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Marseille",
+      "XG": "2.6",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Toulouse",
+      "XG": "2.1",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Rennes",
+      "XG": "1.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Angers",
+      "XG": "0.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Auxerre",
+      "XG": "2.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lille",
+      "XG": "2.7",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Strasbourg",
+      "XG": "0.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Montpellier",
+      "XG": "2.5",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Brest",
+      "XG": "0.8",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Reims",
+      "XG": "2.3",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Troyes",
+      "XG": "0.9",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nantes",
+      "XG": "1.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Lorient",
+      "XG": "1.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lyon",
+      "XG": "1.4",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Lens",
+      "XG": "1.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Auxerre",
+      "XG": "1.5",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Lyon",
+      "XG": "0.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nice",
+      "XG": "1.2",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Reims",
+      "XG": "1.6",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Strasbourg",
+      "XG": "1.7",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Angers",
+      "XG": "1.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Paris S-G",
+      "XG": "2.0",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Lille",
+      "XG": "2.4",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Troyes",
+      "XG": "0.1",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Montpellier",
+      "XG": "1.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lorient",
+      "XG": "2.5",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Ajaccio",
+      "XG": "0.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brest",
+      "XG": "0.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Monaco",
+      "XG": "1.5",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Rennes",
+      "XG": "2.4",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Clermont Foot",
+      "XG": "1.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lens",
+      "XG": "2.4",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Nantes",
+      "XG": "0.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Toulouse",
+      "XG": "2.0",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Marseille",
+      "XG": "1.0",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lille",
+      "XG": "1.0",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Brest",
+      "XG": "0.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Angers",
+      "XG": "1.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Lyon",
+      "XG": "1.1",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Montpellier",
+      "XG": "0.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Lens",
+      "XG": "1.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lorient",
+      "XG": "1.5",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Auxerre",
+      "XG": "0.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Clermont Foot",
+      "XG": "1.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Strasbourg",
+      "XG": "1.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Ajaccio",
+      "XG": "3.8",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Troyes",
+      "XG": "1.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Reims",
+      "XG": "2.7",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Toulouse",
+      "XG": "1.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nantes",
+      "XG": "2.6",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Rennes",
+      "XG": "1.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Monaco",
+      "XG": "1.0",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Nice",
+      "XG": "2.3",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Marseille",
+      "XG": "1.6",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Paris S-G",
+      "XG": "2.0",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nice",
+      "XG": "1.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Auxerre",
+      "XG": "0.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lens",
+      "XG": "0.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Lille",
+      "XG": "1.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Paris S-G",
+      "XG": "1.4",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Nantes",
+      "XG": "0.4",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Troyes",
+      "XG": "0.9",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Monaco",
+      "XG": "3.0",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Montpellier",
+      "XG": "2.9",
+      "Score": "5"
+    },
+    "Away Team": {
+      "Name": "Angers",
+      "XG": "0.9",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Toulouse",
+      "XG": "1.0",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Clermont Foot",
+      "XG": "0.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Strasbourg",
+      "XG": "1.2",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Brest",
+      "XG": "0.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Reims",
+      "XG": "0.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Ajaccio",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lyon",
+      "XG": "2.2",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Lorient",
+      "XG": "1.0",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Rennes",
+      "XG": "1.0",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Marseille",
+      "XG": "1.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lille",
+      "XG": "2.3",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Lyon",
+      "XG": "0.8",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Auxerre",
+      "XG": "0.7",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Rennes",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brest",
+      "XG": "0.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Paris S-G",
+      "XG": "2.6",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Clermont Foot",
+      "XG": "1.2",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Lens",
+      "XG": "2.0",
+      "Score": "4"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lorient",
+      "XG": "1.9",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Troyes",
+      "XG": "0.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Ajaccio",
+      "XG": "0.2",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Montpellier",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nantes",
+      "XG": "1.6",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Nice",
+      "XG": "1.2",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Angers",
+      "XG": "1.7",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Toulouse",
+      "XG": "1.6",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Monaco",
+      "XG": "0.9",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Reims",
+      "XG": "1.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Marseille",
+      "XG": "1.6",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Strasbourg",
+      "XG": "2.1",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lyon",
+      "XG": "1.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Nantes",
+      "XG": "1.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Toulouse",
+      "XG": "2.3",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Lille",
+      "XG": "1.4",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lens",
+      "XG": "1.6",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Angers",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Ajaccio",
+      "XG": "1.1",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Monaco",
+      "XG": "1.1",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nice",
+      "XG": "1.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Lorient",
+      "XG": "0.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Strasbourg",
+      "XG": "2.8",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Auxerre",
+      "XG": "0.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Troyes",
+      "XG": "1.1",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Brest",
+      "XG": "1.3",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Montpellier",
+      "XG": "3.3",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Clermont Foot",
+      "XG": "1.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Paris S-G",
+      "XG": "1.7",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Rennes",
+      "XG": "1.5",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Reims",
+      "XG": "1.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Marseille",
+      "XG": "1.2",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Marseille",
+      "XG": "1.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Montpellier",
+      "XG": "0.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Auxerre",
+      "XG": "1.1",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Troyes",
+      "XG": "1.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Rennes",
+      "XG": "1.0",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Lens",
+      "XG": "1.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lille",
+      "XG": "2.0",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Lorient",
+      "XG": "0.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brest",
+      "XG": "1.7",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Toulouse",
+      "XG": "1.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Angers",
+      "XG": "0.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Nice",
+      "XG": "1.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Clermont Foot",
+      "XG": "2.4",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Ajaccio",
+      "XG": "0.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nantes",
+      "XG": "1.3",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Reims",
+      "XG": "2.2",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Monaco",
+      "XG": "1.4",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Strasbourg",
+      "XG": "1.5",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Paris S-G",
+      "XG": "1.1",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Lyon",
+      "XG": "1.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lens",
+      "XG": "1.0",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Strasbourg",
+      "XG": "0.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Angers",
+      "XG": "1.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Lille",
+      "XG": "1.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nice",
+      "XG": "1.5",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Paris S-G",
+      "XG": "1.2",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lyon",
+      "XG": "1.1",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Rennes",
+      "XG": "1.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Montpellier",
+      "XG": "1.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Toulouse",
+      "XG": "2.1",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Ajaccio",
+      "XG": "1.1",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Auxerre",
+      "XG": "0.8",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Reims",
+      "XG": "3.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Brest",
+      "XG": "1.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Troyes",
+      "XG": "0.4",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Clermont Foot",
+      "XG": "1.3",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nantes",
+      "XG": "1.1",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Monaco",
+      "XG": "1.3",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lorient",
+      "XG": "0.4",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Marseille",
+      "XG": "0.9",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Toulouse",
+      "XG": "1.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Lyon",
+      "XG": "2.3",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Rennes",
+      "XG": "2.9",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Reims",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Paris S-G",
+      "XG": "1.2",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Lens",
+      "XG": "1.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lille",
+      "XG": "2.1",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Montpellier",
+      "XG": "0.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Auxerre",
+      "XG": "2.6",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Nantes",
+      "XG": "0.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Strasbourg",
+      "XG": "1.6",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Ajaccio",
+      "XG": "0.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brest",
+      "XG": "1.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Nice",
+      "XG": "0.8",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Clermont Foot",
+      "XG": "2.1",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Angers",
+      "XG": "0.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Monaco",
+      "XG": "1.9",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Lorient",
+      "XG": "1.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Marseille",
+      "XG": "3.7",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Troyes",
+      "XG": "0.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Angers",
+      "XG": "1.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Paris S-G",
+      "XG": "1.6",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Auxerre",
+      "XG": "1.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Lille",
+      "XG": "2.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lens",
+      "XG": "2.3",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Monaco",
+      "XG": "1.6",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Reims",
+      "XG": "1.4",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Strasbourg",
+      "XG": "0.8",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nantes",
+      "XG": "1.7",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Troyes",
+      "XG": "1.8",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nice",
+      "XG": "1.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Clermont Foot",
+      "XG": "1.0",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Ajaccio",
+      "XG": "0.3",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Brest",
+      "XG": "0.6",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lorient",
+      "XG": "0.6",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Toulouse",
+      "XG": "1.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Montpellier",
+      "XG": "0.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Rennes",
+      "XG": "1.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lyon",
+      "XG": "1.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Marseille",
+      "XG": "2.0",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Strasbourg",
+      "XG": "1.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Lyon",
+      "XG": "0.8",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lille",
+      "XG": "1.6",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Ajaccio",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Monaco",
+      "XG": "1.1",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Montpellier",
+      "XG": "1.9",
+      "Score": "4"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Troyes",
+      "XG": "0.7",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Nice",
+      "XG": "3.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Clermont Foot",
+      "XG": "1.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Reims",
+      "XG": "0.8",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Rennes",
+      "XG": "2.1",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Angers",
+      "XG": "1.0",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Paris S-G",
+      "XG": "1.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Lorient",
+      "XG": "2.9",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Marseille",
+      "XG": "2.6",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Auxerre",
+      "XG": "0.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Toulouse",
+      "XG": "0.6",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Lens",
+      "XG": "1.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brest",
+      "XG": "0.6",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Nantes",
+      "XG": "1.0",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nice",
+      "XG": "1.6",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Rennes",
+      "XG": "1.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Reims",
+      "XG": "2.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Lille",
+      "XG": "1.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lens",
+      "XG": "0.7",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Marseille",
+      "XG": "1.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Angers",
+      "XG": "1.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Monaco",
+      "XG": "2.1",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Ajaccio",
+      "XG": "0.3",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Toulouse",
+      "XG": "1.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lorient",
+      "XG": "1.0",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Brest",
+      "XG": "1.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nantes",
+      "XG": "0.8",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Strasbourg",
+      "XG": "2.2",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Auxerre",
+      "XG": "1.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Clermont Foot",
+      "XG": "1.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lyon",
+      "XG": "2.9",
+      "Score": "5"
+    },
+    "Away Team": {
+      "Name": "Montpellier",
+      "XG": "1.8",
+      "Score": "4"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Troyes",
+      "XG": "0.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Paris S-G",
+      "XG": "4.1",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lens",
+      "XG": "1.5",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Reims",
+      "XG": "1.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Strasbourg",
+      "XG": "2.0",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Nice",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Paris S-G",
+      "XG": "2.3",
+      "Score": "5"
+    },
+    "Away Team": {
+      "Name": "Ajaccio",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Clermont Foot",
+      "XG": "1.8",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Lyon",
+      "XG": "1.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Montpellier",
+      "XG": "1.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Lorient",
+      "XG": "0.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Toulouse",
+      "XG": "1.3",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Nantes",
+      "XG": "1.0",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brest",
+      "XG": "1.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Auxerre",
+      "XG": "0.6",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Rennes",
+      "XG": "3.9",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Troyes",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Monaco",
+      "XG": "0.7",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Lille",
+      "XG": "0.9",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Marseille",
+      "XG": "2.7",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Angers",
+      "XG": "0.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lyon",
+      "XG": "2.1",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Monaco",
+      "XG": "1.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nantes",
+      "XG": "0.9",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Montpellier",
+      "XG": "1.8",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lille",
+      "XG": "1.7",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Marseille",
+      "XG": "0.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Ajaccio",
+      "XG": "0.1",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Rennes",
+      "XG": "1.3",
+      "Score": "5"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brest",
+      "XG": "1.3",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Clermont Foot",
+      "XG": "0.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Reims",
+      "XG": "1.5",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Angers",
+      "XG": "1.2",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nice",
+      "XG": "2.2",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Toulouse",
+      "XG": "0.8",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Troyes",
+      "XG": "0.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Strasbourg",
+      "XG": "1.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lorient",
+      "XG": "1.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Lens",
+      "XG": "1.9",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Auxerre",
+      "XG": "0.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Paris S-G",
+      "XG": "2.1",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lille",
+      "XG": "2.1",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Nantes",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Rennes",
+      "XG": "1.3",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Monaco",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lyon",
+      "XG": "2.6",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Reims",
+      "XG": "1.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Angers",
+      "XG": "1.2",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Troyes",
+      "XG": "0.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lens",
+      "XG": "2.3",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Ajaccio",
+      "XG": "0.2",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Montpellier",
+      "XG": "2.3",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Nice",
+      "XG": "3.4",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Clermont Foot",
+      "XG": "1.4",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Lorient",
+      "XG": "1.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Strasbourg",
+      "XG": "1.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Paris S-G",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Toulouse",
+      "XG": "0.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Auxerre",
+      "XG": "0.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Marseille",
+      "XG": "1.1",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Brest",
+      "XG": "1.0",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Paris S-G",
+      "XG": "2.2",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Clermont Foot",
+      "XG": "3.1",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Monaco",
+      "XG": "2.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Toulouse",
+      "XG": "2.6",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Ajaccio",
+      "XG": "0.1",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Marseille",
+      "XG": "1.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Reims",
+      "XG": "1.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Montpellier",
+      "XG": "2.3",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nantes",
+      "XG": "1.1",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Angers",
+      "XG": "0.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Nice",
+      "XG": "2.3",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Lyon",
+      "XG": "1.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Troyes",
+      "XG": "0.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Lille",
+      "XG": "1.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Auxerre",
+      "XG": "3.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Lens",
+      "XG": "2.8",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Lorient",
+      "XG": "0.5",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Strasbourg",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Brest",
+      "XG": "1.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Rennes",
+      "XG": "1.9",
+      "Score": "2"
+    }
+  }
+]

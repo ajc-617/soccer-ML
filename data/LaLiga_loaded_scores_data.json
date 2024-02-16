@@ -1,0 +1,4562 @@
+[
+  {
+    "Home Team": {
+      "Name": "Osasuna",
+      "XG": "1.5",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Sevilla",
+      "XG": "0.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Celta Vigo",
+      "XG": "0.4",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Espanyol",
+      "XG": "1.1",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Valladolid",
+      "XG": "1.0",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Villarreal",
+      "XG": "1.5",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Barcelona",
+      "XG": "1.9",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Rayo Vallecano",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "C\u00e1diz",
+      "XG": "0.2",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Real Sociedad",
+      "XG": "1.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Valencia",
+      "XG": "1.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Girona",
+      "XG": "0.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Almer\u00eda",
+      "XG": "0.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Real Madrid",
+      "XG": "2.1",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Athletic Club",
+      "XG": "1.6",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Mallorca",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Getafe",
+      "XG": "0.7",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Atl\u00e9tico Madrid",
+      "XG": "1.2",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Betis",
+      "XG": "3.1",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Elche",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Espanyol",
+      "XG": "0.8",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Rayo Vallecano",
+      "XG": "1.4",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sevilla",
+      "XG": "2.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Valladolid",
+      "XG": "0.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Osasuna",
+      "XG": "2.7",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "C\u00e1diz",
+      "XG": "1.0",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Mallorca",
+      "XG": "0.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Betis",
+      "XG": "2.1",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Celta Vigo",
+      "XG": "1.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Real Madrid",
+      "XG": "3.7",
+      "Score": "4"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Athletic Club",
+      "XG": "1.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Valencia",
+      "XG": "0.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Atl\u00e9tico Madrid",
+      "XG": "1.6",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Villarreal",
+      "XG": "1.8",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Real Sociedad",
+      "XG": "0.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Barcelona",
+      "XG": "2.1",
+      "Score": "4"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Elche",
+      "XG": "1.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Almer\u00eda",
+      "XG": "0.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Girona",
+      "XG": "1.1",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Getafe",
+      "XG": "0.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Girona",
+      "XG": "1.0",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Celta Vigo",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Betis",
+      "XG": "0.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Osasuna",
+      "XG": "1.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Elche",
+      "XG": "0.7",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Real Sociedad",
+      "XG": "1.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Rayo Vallecano",
+      "XG": "0.7",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Mallorca",
+      "XG": "0.8",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Almer\u00eda",
+      "XG": "2.3",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Sevilla",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Getafe",
+      "XG": "0.3",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Villarreal",
+      "XG": "1.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Barcelona",
+      "XG": "2.6",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Valladolid",
+      "XG": "0.8",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Espanyol",
+      "XG": "1.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Real Madrid",
+      "XG": "2.1",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "C\u00e1diz",
+      "XG": "0.4",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Athletic Club",
+      "XG": "2.4",
+      "Score": "4"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Valencia",
+      "XG": "0.5",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Atl\u00e9tico Madrid",
+      "XG": "1.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Celta Vigo",
+      "XG": "0.7",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "C\u00e1diz",
+      "XG": "0.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Mallorca",
+      "XG": "0.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Girona",
+      "XG": "1.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Real Madrid",
+      "XG": "2.9",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Betis",
+      "XG": "0.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Real Sociedad",
+      "XG": "1.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Atl\u00e9tico Madrid",
+      "XG": "1.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sevilla",
+      "XG": "1.0",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Barcelona",
+      "XG": "4.0",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Osasuna",
+      "XG": "2.4",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Rayo Vallecano",
+      "XG": "0.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Athletic Club",
+      "XG": "1.2",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Espanyol",
+      "XG": "0.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Villarreal",
+      "XG": "3.4",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Elche",
+      "XG": "0.6",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Valencia",
+      "XG": "2.3",
+      "Score": "5"
+    },
+    "Away Team": {
+      "Name": "Getafe",
+      "XG": "0.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Valladolid",
+      "XG": "1.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Almer\u00eda",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Girona",
+      "XG": "1.9",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Valladolid",
+      "XG": "0.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Rayo Vallecano",
+      "XG": "1.7",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Valencia",
+      "XG": "1.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Espanyol",
+      "XG": "2.5",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Sevilla",
+      "XG": "2.0",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "C\u00e1diz",
+      "XG": "0.4",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Barcelona",
+      "XG": "3.4",
+      "Score": "4"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Atl\u00e9tico Madrid",
+      "XG": "0.7",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Celta Vigo",
+      "XG": "1.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Real Madrid",
+      "XG": "2.3",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Mallorca",
+      "XG": "0.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Elche",
+      "XG": "0.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Athletic Club",
+      "XG": "2.7",
+      "Score": "4"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Getafe",
+      "XG": "1.1",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Real Sociedad",
+      "XG": "1.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Betis",
+      "XG": "1.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Villarreal",
+      "XG": "1.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Almer\u00eda",
+      "XG": "0.2",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Osasuna",
+      "XG": "2.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Valladolid",
+      "XG": "1.5",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "C\u00e1diz",
+      "XG": "0.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Mallorca",
+      "XG": "0.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Almer\u00eda",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Barcelona",
+      "XG": "3.9",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Elche",
+      "XG": "0.0",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Valencia",
+      "XG": "1.7",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Celta Vigo",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Athletic Club",
+      "XG": "1.9",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Rayo Vallecano",
+      "XG": "0.7",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Osasuna",
+      "XG": "0.5",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Getafe",
+      "XG": "0.8",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Villarreal",
+      "XG": "1.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Sevilla",
+      "XG": "0.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Betis",
+      "XG": "1.6",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Girona",
+      "XG": "1.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Real Sociedad",
+      "XG": "1.9",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Espanyol",
+      "XG": "0.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Atl\u00e9tico Madrid",
+      "XG": "1.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Real Madrid",
+      "XG": "0.9",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Athletic Club",
+      "XG": "2.1",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Almer\u00eda",
+      "XG": "0.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "C\u00e1diz",
+      "XG": "0.7",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Villarreal",
+      "XG": "1.6",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Getafe",
+      "XG": "2.8",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Valladolid",
+      "XG": "1.6",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sevilla",
+      "XG": "0.5",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Atl\u00e9tico Madrid",
+      "XG": "2.2",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Mallorca",
+      "XG": "1.2",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Barcelona",
+      "XG": "0.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Espanyol",
+      "XG": "0.8",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Valencia",
+      "XG": "1.1",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Celta Vigo",
+      "XG": "0.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Betis",
+      "XG": "0.9",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Girona",
+      "XG": "1.0",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Real Sociedad",
+      "XG": "2.1",
+      "Score": "5"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Real Madrid",
+      "XG": "2.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Osasuna",
+      "XG": "0.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Rayo Vallecano",
+      "XG": "0.9",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Elche",
+      "XG": "1.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Osasuna",
+      "XG": "1.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Valencia",
+      "XG": "2.1",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Almer\u00eda",
+      "XG": "1.2",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Rayo Vallecano",
+      "XG": "0.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Atl\u00e9tico Madrid",
+      "XG": "1.9",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Girona",
+      "XG": "0.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sevilla",
+      "XG": "1.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Athletic Club",
+      "XG": "1.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Getafe",
+      "XG": "0.3",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Real Madrid",
+      "XG": "1.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Valladolid",
+      "XG": "0.6",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Betis",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "C\u00e1diz",
+      "XG": "1.3",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Espanyol",
+      "XG": "1.3",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Real Sociedad",
+      "XG": "1.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Villarreal",
+      "XG": "0.2",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Barcelona",
+      "XG": "2.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Celta Vigo",
+      "XG": "1.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Elche",
+      "XG": "0.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Mallorca",
+      "XG": "2.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Rayo Vallecano",
+      "XG": "1.6",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Getafe",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Girona",
+      "XG": "2.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "C\u00e1diz",
+      "XG": "1.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Valencia",
+      "XG": "2.7",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Elche",
+      "XG": "1.7",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Mallorca",
+      "XG": "0.7",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Sevilla",
+      "XG": "0.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Athletic Club",
+      "XG": "1.2",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Atl\u00e9tico Madrid",
+      "XG": "0.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Celta Vigo",
+      "XG": "0.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Real Sociedad",
+      "XG": "0.8",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Real Madrid",
+      "XG": "1.1",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Barcelona",
+      "XG": "2.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Espanyol",
+      "XG": "1.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Valladolid",
+      "XG": "0.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Betis",
+      "XG": "2.5",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Almer\u00eda",
+      "XG": "0.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Villarreal",
+      "XG": "1.5",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Osasuna",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sevilla",
+      "XG": "1.1",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Valencia",
+      "XG": "1.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Getafe",
+      "XG": "0.8",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Athletic Club",
+      "XG": "1.0",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Atl\u00e9tico Madrid",
+      "XG": "1.1",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Rayo Vallecano",
+      "XG": "1.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "C\u00e1diz",
+      "XG": "0.9",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Betis",
+      "XG": "0.9",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Valladolid",
+      "XG": "1.5",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Celta Vigo",
+      "XG": "2.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Real Sociedad",
+      "XG": "1.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Mallorca",
+      "XG": "0.9",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Elche",
+      "XG": "0.8",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Real Madrid",
+      "XG": "1.5",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Almer\u00eda",
+      "XG": "1.8",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Girona",
+      "XG": "2.8",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Osasuna",
+      "XG": "1.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Espanyol",
+      "XG": "1.0",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Barcelona",
+      "XG": "2.1",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Villarreal",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Rayo Vallecano",
+      "XG": "3.7",
+      "Score": "5"
+    },
+    "Away Team": {
+      "Name": "C\u00e1diz",
+      "XG": "0.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Valladolid",
+      "XG": "0.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Real Sociedad",
+      "XG": "0.9",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Valencia",
+      "XG": "1.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Mallorca",
+      "XG": "1.5",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Real Madrid",
+      "XG": "3.0",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Sevilla",
+      "XG": "0.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Espanyol",
+      "XG": "2.2",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Elche",
+      "XG": "0.5",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Betis",
+      "XG": "1.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Atl\u00e9tico Madrid",
+      "XG": "0.8",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Girona",
+      "XG": "0.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Osasuna",
+      "XG": "0.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Villarreal",
+      "XG": "1.0",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Almer\u00eda",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Barcelona",
+      "XG": "1.4",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Athletic Club",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Celta Vigo",
+      "XG": "0.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Getafe",
+      "XG": "0.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Mallorca",
+      "XG": "1.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Espanyol",
+      "XG": "0.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Almer\u00eda",
+      "XG": "2.3",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Celta Vigo",
+      "XG": "0.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "C\u00e1diz",
+      "XG": "1.1",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Atl\u00e9tico Madrid",
+      "XG": "1.3",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sevilla",
+      "XG": "1.2",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Rayo Vallecano",
+      "XG": "0.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Valencia",
+      "XG": "0.2",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Barcelona",
+      "XG": "1.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Osasuna",
+      "XG": "2.5",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Valladolid",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Real Madrid",
+      "XG": "2.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Girona",
+      "XG": "1.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Athletic Club",
+      "XG": "1.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Villarreal",
+      "XG": "0.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Real Sociedad",
+      "XG": "0.9",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Betis",
+      "XG": "1.3",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Elche",
+      "XG": "1.3",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Getafe",
+      "XG": "0.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Girona",
+      "XG": "1.0",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Athletic Club",
+      "XG": "0.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Getafe",
+      "XG": "0.6",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "C\u00e1diz",
+      "XG": "1.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Valladolid",
+      "XG": "1.9",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Elche",
+      "XG": "0.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Celta Vigo",
+      "XG": "0.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Osasuna",
+      "XG": "0.4",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Barcelona",
+      "XG": "4.0",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Almer\u00eda",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Atl\u00e9tico Madrid",
+      "XG": "1.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Espanyol",
+      "XG": "0.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Real Sociedad",
+      "XG": "1.1",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Valencia",
+      "XG": "0.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Villarreal",
+      "XG": "0.5",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Mallorca",
+      "XG": "0.4",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Betis",
+      "XG": "1.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Sevilla",
+      "XG": "1.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Rayo Vallecano",
+      "XG": "1.5",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Real Madrid",
+      "XG": "2.4",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Elche",
+      "XG": "0.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Girona",
+      "XG": "2.3",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Athletic Club",
+      "XG": "2.1",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Valladolid",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Osasuna",
+      "XG": "1.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Barcelona",
+      "XG": "0.8",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Almer\u00eda",
+      "XG": "0.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Getafe",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sevilla",
+      "XG": "0.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Real Sociedad",
+      "XG": "1.7",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Espanyol",
+      "XG": "1.1",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Villarreal",
+      "XG": "0.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Mallorca",
+      "XG": "1.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Atl\u00e9tico Madrid",
+      "XG": "1.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Rayo Vallecano",
+      "XG": "0.4",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Celta Vigo",
+      "XG": "0.9",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Valencia",
+      "XG": "2.0",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Betis",
+      "XG": "0.2",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Real Madrid",
+      "XG": "2.0",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "C\u00e1diz",
+      "XG": "0.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Girona",
+      "XG": "2.3",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Rayo Vallecano",
+      "XG": "1.0",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Betis",
+      "XG": "0.5",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Athletic Club",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Atl\u00e9tico Madrid",
+      "XG": "1.7",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Elche",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Getafe",
+      "XG": "1.2",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Mallorca",
+      "XG": "0.6",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "C\u00e1diz",
+      "XG": "1.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Almer\u00eda",
+      "XG": "2.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Celta Vigo",
+      "XG": "2.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Sevilla",
+      "XG": "0.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Valladolid",
+      "XG": "0.6",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Real Madrid",
+      "XG": "2.3",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Barcelona",
+      "XG": "2.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Espanyol",
+      "XG": "0.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Real Sociedad",
+      "XG": "1.4",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Osasuna",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Villarreal",
+      "XG": "2.5",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Valencia",
+      "XG": "1.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Elche",
+      "XG": "1.0",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Celta Vigo",
+      "XG": "2.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Valencia",
+      "XG": "0.4",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "C\u00e1diz",
+      "XG": "0.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Villarreal",
+      "XG": "3.0",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Real Madrid",
+      "XG": "2.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Mallorca",
+      "XG": "1.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Valladolid",
+      "XG": "0.6",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Espanyol",
+      "XG": "1.5",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Girona",
+      "XG": "1.2",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Almer\u00eda",
+      "XG": "0.6",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Real Sociedad",
+      "XG": "1.7",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Rayo Vallecano",
+      "XG": "1.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Betis",
+      "XG": "0.9",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sevilla",
+      "XG": "1.2",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Getafe",
+      "XG": "0.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Atl\u00e9tico Madrid",
+      "XG": "1.7",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Barcelona",
+      "XG": "0.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Athletic Club",
+      "XG": "1.0",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Osasuna",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Celta Vigo",
+      "XG": "2.1",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Villarreal",
+      "XG": "0.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Valladolid",
+      "XG": "0.6",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Rayo Vallecano",
+      "XG": "1.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Girona",
+      "XG": "2.2",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Sevilla",
+      "XG": "1.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Osasuna",
+      "XG": "1.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Mallorca",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Real Sociedad",
+      "XG": "2.0",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Athletic Club",
+      "XG": "0.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Getafe",
+      "XG": "0.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Espanyol",
+      "XG": "0.8",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Almer\u00eda",
+      "XG": "1.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Atl\u00e9tico Madrid",
+      "XG": "2.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "C\u00e1diz",
+      "XG": "1.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Elche",
+      "XG": "0.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Mallorca",
+      "XG": "0.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Celta Vigo",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Rayo Vallecano",
+      "XG": "0.9",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Real Sociedad",
+      "XG": "1.6",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Espanyol",
+      "XG": "2.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Betis",
+      "XG": "0.9",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Atl\u00e9tico Madrid",
+      "XG": "3.3",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Valladolid",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sevilla",
+      "XG": "1.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "C\u00e1diz",
+      "XG": "0.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Villarreal",
+      "XG": "2.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Girona",
+      "XG": "0.6",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Elche",
+      "XG": "1.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Osasuna",
+      "XG": "0.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Barcelona",
+      "XG": "0.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Getafe",
+      "XG": "1.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Athletic Club",
+      "XG": "1.1",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Real Madrid",
+      "XG": "1.1",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Valencia",
+      "XG": "1.9",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Almer\u00eda",
+      "XG": "1.4",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Almer\u00eda",
+      "XG": "2.1",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Espanyol",
+      "XG": "0.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "C\u00e1diz",
+      "XG": "1.9",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Mallorca",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Girona",
+      "XG": "1.1",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Barcelona",
+      "XG": "1.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sevilla",
+      "XG": "3.2",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Elche",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Getafe",
+      "XG": "0.3",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Betis",
+      "XG": "1.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Valladolid",
+      "XG": "1.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Valencia",
+      "XG": "1.2",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Osasuna",
+      "XG": "0.9",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Atl\u00e9tico Madrid",
+      "XG": "1.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Celta Vigo",
+      "XG": "0.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Athletic Club",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Real Madrid",
+      "XG": "1.3",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Real Sociedad",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Villarreal",
+      "XG": "0.8",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Rayo Vallecano",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Betis",
+      "XG": "0.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Barcelona",
+      "XG": "1.9",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Real Madrid",
+      "XG": "2.3",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Valencia",
+      "XG": "0.2",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Athletic Club",
+      "XG": "1.7",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "C\u00e1diz",
+      "XG": "1.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Espanyol",
+      "XG": "1.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Osasuna",
+      "XG": "0.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Elche",
+      "XG": "3.0",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Villarreal",
+      "XG": "1.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Atl\u00e9tico Madrid",
+      "XG": "0.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Getafe",
+      "XG": "1.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Betis",
+      "XG": "3.4",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Celta Vigo",
+      "XG": "1.9",
+      "Score": "4"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Mallorca",
+      "XG": "0.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Real Madrid",
+      "XG": "1.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Girona",
+      "XG": "2.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Valencia",
+      "XG": "1.0",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Real Sociedad",
+      "XG": "1.2",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Valladolid",
+      "XG": "0.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Barcelona",
+      "XG": "2.7",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Sevilla",
+      "XG": "0.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Rayo Vallecano",
+      "XG": "1.1",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Almer\u00eda",
+      "XG": "1.2",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "C\u00e1diz",
+      "XG": "0.7",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Girona",
+      "XG": "0.2",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Almer\u00eda",
+      "XG": "2.3",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Betis",
+      "XG": "2.5",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sevilla",
+      "XG": "2.1",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Mallorca",
+      "XG": "0.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Valencia",
+      "XG": "1.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Athletic Club",
+      "XG": "1.5",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Getafe",
+      "XG": "1.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Rayo Vallecano",
+      "XG": "2.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Celta Vigo",
+      "XG": "0.9",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Atl\u00e9tico Madrid",
+      "XG": "0.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Valladolid",
+      "XG": "1.6",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Osasuna",
+      "XG": "0.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Villarreal",
+      "XG": "1.1",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Barcelona",
+      "XG": "1.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Espanyol",
+      "XG": "1.2",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Real Sociedad",
+      "XG": "1.4",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Real Madrid",
+      "XG": "4.1",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Elche",
+      "XG": "0.6",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Girona",
+      "XG": "3.0",
+      "Score": "6"
+    },
+    "Away Team": {
+      "Name": "Almer\u00eda",
+      "XG": "1.8",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Real Sociedad",
+      "XG": "1.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Celta Vigo",
+      "XG": "1.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Betis",
+      "XG": "2.4",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Valladolid",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Mallorca",
+      "XG": "2.2",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Villarreal",
+      "XG": "1.2",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Osasuna",
+      "XG": "0.5",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Real Madrid",
+      "XG": "1.3",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Elche",
+      "XG": "1.8",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Espanyol",
+      "XG": "1.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Rayo Vallecano",
+      "XG": "1.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Sevilla",
+      "XG": "0.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Atl\u00e9tico Madrid",
+      "XG": "1.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Athletic Club",
+      "XG": "0.8",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Barcelona",
+      "XG": "2.2",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "C\u00e1diz",
+      "XG": "1.0",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Getafe",
+      "XG": "1.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Valencia",
+      "XG": "1.0",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Elche",
+      "XG": "1.0",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Betis",
+      "XG": "4.1",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Espanyol",
+      "XG": "1.4",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Mallorca",
+      "XG": "0.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "C\u00e1diz",
+      "XG": "0.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Rayo Vallecano",
+      "XG": "0.6",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Real Madrid",
+      "XG": "1.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Atl\u00e9tico Madrid",
+      "XG": "0.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Valencia",
+      "XG": "0.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Real Sociedad",
+      "XG": "0.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Athletic Club",
+      "XG": "1.6",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Girona",
+      "XG": "1.1",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Celta Vigo",
+      "XG": "1.8",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Valladolid",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Almer\u00eda",
+      "XG": "1.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Barcelona",
+      "XG": "1.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sevilla",
+      "XG": "1.7",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Osasuna",
+      "XG": "0.9",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Villarreal",
+      "XG": "1.5",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Getafe",
+      "XG": "0.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Real Sociedad",
+      "XG": "1.2",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "C\u00e1diz",
+      "XG": "0.6",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Getafe",
+      "XG": "1.5",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Girona",
+      "XG": "0.8",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Almer\u00eda",
+      "XG": "0.4",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Villarreal",
+      "XG": "2.1",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Mallorca",
+      "XG": "0.9",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Elche",
+      "XG": "0.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Atl\u00e9tico Madrid",
+      "XG": "3.2",
+      "Score": "6"
+    },
+    "Away Team": {
+      "Name": "Sevilla",
+      "XG": "1.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Valladolid",
+      "XG": "1.4",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Espanyol",
+      "XG": "1.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Barcelona",
+      "XG": "1.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Valencia",
+      "XG": "1.0",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Rayo Vallecano",
+      "XG": "1.1",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Athletic Club",
+      "XG": "1.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Betis",
+      "XG": "0.5",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Real Madrid",
+      "XG": "1.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Osasuna",
+      "XG": "0.8",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Celta Vigo",
+      "XG": "1.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "C\u00e1diz",
+      "XG": "1.7",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Getafe",
+      "XG": "2.7",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Real Madrid",
+      "XG": "1.7",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Espanyol",
+      "XG": "1.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Elche",
+      "XG": "2.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Valladolid",
+      "XG": "0.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Celta Vigo",
+      "XG": "2.4",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Rayo Vallecano",
+      "XG": "1.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Valencia",
+      "XG": "1.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Osasuna",
+      "XG": "0.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Mallorca",
+      "XG": "1.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Real Sociedad",
+      "XG": "0.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sevilla",
+      "XG": "3.0",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Almer\u00eda",
+      "XG": "1.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Villarreal",
+      "XG": "1.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Betis",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Athletic Club",
+      "XG": "0.9",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Barcelona",
+      "XG": "0.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Girona",
+      "XG": "0.4",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Atl\u00e9tico Madrid",
+      "XG": "1.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Valladolid",
+      "XG": "1.1",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Athletic Club",
+      "XG": "2.6",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Almer\u00eda",
+      "XG": "2.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "C\u00e1diz",
+      "XG": "1.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Rayo Vallecano",
+      "XG": "1.9",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Girona",
+      "XG": "1.8",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Espanyol",
+      "XG": "1.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Celta Vigo",
+      "XG": "1.6",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Atl\u00e9tico Madrid",
+      "XG": "1.9",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Valencia",
+      "XG": "1.0",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Betis",
+      "XG": "0.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Mallorca",
+      "XG": "0.2",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Osasuna",
+      "XG": "0.9",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Villarreal",
+      "XG": "1.8",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Real Sociedad",
+      "XG": "2.0",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Elche",
+      "XG": "0.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Getafe",
+      "XG": "1.7",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Sevilla",
+      "XG": "1.0",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Barcelona",
+      "XG": "1.6",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Real Madrid",
+      "XG": "0.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Mallorca",
+      "XG": "0.5",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Osasuna",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Girona",
+      "XG": "1.6",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Espanyol",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Athletic Club",
+      "XG": "0.9",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Getafe",
+      "XG": "0.8",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "C\u00e1diz",
+      "XG": "1.1",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Sevilla",
+      "XG": "1.1",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Elche",
+      "XG": "0.8",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Barcelona",
+      "XG": "1.7",
+      "Score": "4"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Celta Vigo",
+      "XG": "2.0",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Almer\u00eda",
+      "XG": "1.0",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Real Madrid",
+      "XG": "4.5",
+      "Score": "6"
+    },
+    "Away Team": {
+      "Name": "Valladolid",
+      "XG": "0.8",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Villarreal",
+      "XG": "2.7",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Real Sociedad",
+      "XG": "1.0",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Atl\u00e9tico Madrid",
+      "XG": "1.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Betis",
+      "XG": "0.6",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Valencia",
+      "XG": "2.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Rayo Vallecano",
+      "XG": "0.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sevilla",
+      "XG": "0.4",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Celta Vigo",
+      "XG": "0.6",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Osasuna",
+      "XG": "1.2",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Elche",
+      "XG": "0.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Espanyol",
+      "XG": "0.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Athletic Club",
+      "XG": "2.3",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Real Sociedad",
+      "XG": "2.1",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Getafe",
+      "XG": "0.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Real Madrid",
+      "XG": "2.4",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Villarreal",
+      "XG": "1.5",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Valladolid",
+      "XG": "1.2",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Mallorca",
+      "XG": "1.8",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Betis",
+      "XG": "1.2",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "C\u00e1diz",
+      "XG": "2.9",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Almer\u00eda",
+      "XG": "0.9",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Valencia",
+      "XG": "1.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Rayo Vallecano",
+      "XG": "0.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Atl\u00e9tico Madrid",
+      "XG": "1.9",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Barcelona",
+      "XG": "1.3",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Girona",
+      "XG": "0.6",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Rayo Vallecano",
+      "XG": "0.9",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Osasuna",
+      "XG": "0.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Villarreal",
+      "XG": "2.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Valladolid",
+      "XG": "2.2",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Athletic Club",
+      "XG": "0.8",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Real Sociedad",
+      "XG": "1.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Betis",
+      "XG": "2.0",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Espanyol",
+      "XG": "0.8",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "C\u00e1diz",
+      "XG": "0.7",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Real Madrid",
+      "XG": "3.5",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Girona",
+      "XG": "1.3",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Elche",
+      "XG": "0.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Getafe",
+      "XG": "0.5",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Barcelona",
+      "XG": "1.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Atl\u00e9tico Madrid",
+      "XG": "2.3",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Almer\u00eda",
+      "XG": "0.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Valencia",
+      "XG": "0.4",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Sevilla",
+      "XG": "0.4",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Celta Vigo",
+      "XG": "0.8",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Mallorca",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Espanyol",
+      "XG": "1.3",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "C\u00e1diz",
+      "XG": "1.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Osasuna",
+      "XG": "1.5",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Betis",
+      "XG": "2.0",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Almer\u00eda",
+      "XG": "0.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Athletic Club",
+      "XG": "1.7",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Valladolid",
+      "XG": "1.1",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Girona",
+      "XG": "1.0",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Real Sociedad",
+      "XG": "0.6",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Rayo Vallecano",
+      "XG": "0.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Real Madrid",
+      "XG": "1.5",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Celta Vigo",
+      "XG": "0.9",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Elche",
+      "XG": "0.6",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Valencia",
+      "XG": "1.0",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Barcelona",
+      "XG": "1.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Atl\u00e9tico Madrid",
+      "XG": "1.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Mallorca",
+      "XG": "1.5",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Getafe",
+      "XG": "0.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sevilla",
+      "XG": "0.9",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Villarreal",
+      "XG": "2.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Girona",
+      "XG": "2.3",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Real Madrid",
+      "XG": "1.8",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "C\u00e1diz",
+      "XG": "1.4",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Osasuna",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Betis",
+      "XG": "1.0",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Real Sociedad",
+      "XG": "0.9",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Getafe",
+      "XG": "1.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Almer\u00eda",
+      "XG": "1.9",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Atl\u00e9tico Madrid",
+      "XG": "2.7",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Mallorca",
+      "XG": "0.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Rayo Vallecano",
+      "XG": "0.7",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Barcelona",
+      "XG": "0.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Celta Vigo",
+      "XG": "1.3",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Elche",
+      "XG": "1.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Valencia",
+      "XG": "0.9",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Valladolid",
+      "XG": "0.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Villarreal",
+      "XG": "3.7",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Espanyol",
+      "XG": "0.9",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Athletic Club",
+      "XG": "0.3",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Sevilla",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Osasuna",
+      "XG": "1.4",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Real Sociedad",
+      "XG": "1.4",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Elche",
+      "XG": "2.8",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Rayo Vallecano",
+      "XG": "0.8",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Real Madrid",
+      "XG": "2.8",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Almer\u00eda",
+      "XG": "1.3",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Barcelona",
+      "XG": "3.0",
+      "Score": "4"
+    },
+    "Away Team": {
+      "Name": "Betis",
+      "XG": "0.2",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "C\u00e1diz",
+      "XG": "1.8",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Valencia",
+      "XG": "1.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Villarreal",
+      "XG": "2.4",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Celta Vigo",
+      "XG": "0.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Espanyol",
+      "XG": "2.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Getafe",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Valladolid",
+      "XG": "1.8",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Atl\u00e9tico Madrid",
+      "XG": "2.0",
+      "Score": "5"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Mallorca",
+      "XG": "0.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Athletic Club",
+      "XG": "1.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sevilla",
+      "XG": "2.2",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Girona",
+      "XG": "0.8",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Almer\u00eda",
+      "XG": "1.7",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Elche",
+      "XG": "1.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Barcelona",
+      "XG": "2.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Osasuna",
+      "XG": "0.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Real Sociedad",
+      "XG": "1.9",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Real Madrid",
+      "XG": "0.8",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Valencia",
+      "XG": "1.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Villarreal",
+      "XG": "0.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Getafe",
+      "XG": "2.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Celta Vigo",
+      "XG": "0.3",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Atl\u00e9tico Madrid",
+      "XG": "3.0",
+      "Score": "5"
+    },
+    "Away Team": {
+      "Name": "C\u00e1diz",
+      "XG": "0.0",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Girona",
+      "XG": "1.7",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Mallorca",
+      "XG": "1.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sevilla",
+      "XG": "2.6",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Espanyol",
+      "XG": "1.0",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Rayo Vallecano",
+      "XG": "1.4",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Valladolid",
+      "XG": "0.6",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Athletic Club",
+      "XG": "1.6",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Betis",
+      "XG": "1.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Mallorca",
+      "XG": "1.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "C\u00e1diz",
+      "XG": "0.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Real Sociedad",
+      "XG": "2.7",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Girona",
+      "XG": "1.2",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Osasuna",
+      "XG": "1.9",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Almer\u00eda",
+      "XG": "0.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Villarreal",
+      "XG": "3.2",
+      "Score": "5"
+    },
+    "Away Team": {
+      "Name": "Athletic Club",
+      "XG": "3.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Real Madrid",
+      "XG": "0.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Getafe",
+      "XG": "0.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Celta Vigo",
+      "XG": "0.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Valencia",
+      "XG": "1.2",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Elche",
+      "XG": "1.4",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Atl\u00e9tico Madrid",
+      "XG": "1.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Valladolid",
+      "XG": "2.0",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Sevilla",
+      "XG": "2.5",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Espanyol",
+      "XG": "2.7",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Barcelona",
+      "XG": "3.1",
+      "Score": "4"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Betis",
+      "XG": "1.5",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Rayo Vallecano",
+      "XG": "1.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "C\u00e1diz",
+      "XG": "2.2",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Valladolid",
+      "XG": "0.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Girona",
+      "XG": "1.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Villarreal",
+      "XG": "1.9",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Athletic Club",
+      "XG": "1.0",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Celta Vigo",
+      "XG": "0.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Getafe",
+      "XG": "1.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Elche",
+      "XG": "1.1",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Almer\u00eda",
+      "XG": "1.8",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Mallorca",
+      "XG": "0.8",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Barcelona",
+      "XG": "1.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Real Sociedad",
+      "XG": "2.0",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Rayo Vallecano",
+      "XG": "2.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Espanyol",
+      "XG": "1.6",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Atl\u00e9tico Madrid",
+      "XG": "1.9",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Osasuna",
+      "XG": "0.8",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Valencia",
+      "XG": "1.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Real Madrid",
+      "XG": "1.4",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sevilla",
+      "XG": "1.1",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Betis",
+      "XG": "0.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Celta Vigo",
+      "XG": "1.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Girona",
+      "XG": "1.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Real Sociedad",
+      "XG": "1.9",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Almer\u00eda",
+      "XG": "0.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Valladolid",
+      "XG": "2.3",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Barcelona",
+      "XG": "1.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Elche",
+      "XG": "1.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Sevilla",
+      "XG": "0.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Real Madrid",
+      "XG": "1.3",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Rayo Vallecano",
+      "XG": "0.7",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Villarreal",
+      "XG": "2.4",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "C\u00e1diz",
+      "XG": "1.7",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Espanyol",
+      "XG": "3.0",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Atl\u00e9tico Madrid",
+      "XG": "2.3",
+      "Score": "3"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Betis",
+      "XG": "1.2",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Getafe",
+      "XG": "0.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Mallorca",
+      "XG": "0.5",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Valencia",
+      "XG": "1.9",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Osasuna",
+      "XG": "0.8",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Athletic Club",
+      "XG": "0.8",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Sevilla",
+      "XG": "1.2",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Real Madrid",
+      "XG": "0.8",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Valencia",
+      "XG": "2.6",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Espanyol",
+      "XG": "1.2",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Athletic Club",
+      "XG": "2.4",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Elche",
+      "XG": "0.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Girona",
+      "XG": "1.0",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Betis",
+      "XG": "2.5",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Rayo Vallecano",
+      "XG": "1.4",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Villarreal",
+      "XG": "0.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Almer\u00eda",
+      "XG": "1.7",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Valladolid",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Atl\u00e9tico Madrid",
+      "XG": "0.7",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Real Sociedad",
+      "XG": "1.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "C\u00e1diz",
+      "XG": "1.7",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Celta Vigo",
+      "XG": "0.6",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Barcelona",
+      "XG": "3.6",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Mallorca",
+      "XG": "0.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Getafe",
+      "XG": "2.5",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Osasuna",
+      "XG": "0.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Villarreal",
+      "XG": "1.6",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Atl\u00e9tico Madrid",
+      "XG": "1.8",
+      "Score": "2"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Real Sociedad",
+      "XG": "1.8",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Sevilla",
+      "XG": "0.4",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Real Madrid",
+      "XG": "1.8",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Athletic Club",
+      "XG": "2.3",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Osasuna",
+      "XG": "1.8",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Girona",
+      "XG": "0.9",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Mallorca",
+      "XG": "2.2",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Rayo Vallecano",
+      "XG": "1.1",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Valladolid",
+      "XG": "0.9",
+      "Score": "0"
+    },
+    "Away Team": {
+      "Name": "Getafe",
+      "XG": "0.5",
+      "Score": "0"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Betis",
+      "XG": "0.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "Valencia",
+      "XG": "1.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Elche",
+      "XG": "1.6",
+      "Score": "1"
+    },
+    "Away Team": {
+      "Name": "C\u00e1diz",
+      "XG": "2.5",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Celta Vigo",
+      "XG": "0.7",
+      "Score": "2"
+    },
+    "Away Team": {
+      "Name": "Barcelona",
+      "XG": "1.2",
+      "Score": "1"
+    }
+  },
+  {
+    "Home Team": {
+      "Name": "Espanyol",
+      "XG": "0.6",
+      "Score": "3"
+    },
+    "Away Team": {
+      "Name": "Almer\u00eda",
+      "XG": "1.8",
+      "Score": "3"
+    }
+  }
+]

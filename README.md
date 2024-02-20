@@ -1,6 +1,6 @@
 # soccer-ML
 Here are the steps to run my soccer classification model training and testing:
-1. make sure you've pip installed torch, sklearn, pandas, and matplotlib
+1. make sure you've pip installed torch, sklearn, pandas, numpy, and matplotlib
 2. cd src
 3. Type "python3 main.py" to start model training
 4. In the console, you will see k-fold cross-validation in action for finding the ideal hyperparameters: For each combination of hyperparameters, you will see the current learning rate (or step size), the current regularization parameter, and the current batch size used for training, along with the validation accuracy produced by that hyperparameter combination.
